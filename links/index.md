@@ -11,4 +11,5 @@ title: 链接
 - [youxu.info](https://blog.youxu.info/)
 - [jysperm](https://jysperm.me/)
 - [jiangh](https://1byte.io/)
+- [7gugu's Blog](https://www.7gugu.com/)
 - [others](/others/)

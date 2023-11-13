@@ -30,7 +30,7 @@ title: 链接
 [仿生学阅读字体 (bionic-reading)](https://bionic-reading.com/)
 [在线桌球](http://www.heyzxz.me/pcol/)
 [在线词云](https://wordart.com/create)
-
+[在线多人海战游戏](https://mk48.io/)
 
 **文章类**
 
@@ -64,3 +64,7 @@ title: 链接
 - [youxu.info](https://blog.youxu.info/)
 - [7gugu's Blog](https://www.7gugu.com/)
 - [戴磊笔记 (daileinote)](http://www.daileinote.com/)
+
+**最后**
+
+![](https://placekitten.com/50/50) [placekitten.com](https://placekitten.com/220/330) 

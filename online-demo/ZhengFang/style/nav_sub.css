@@ -1,0 +1,24 @@
+/*子ul的属性*/
+.sub{
+    display: none;
+    /*inherit从父级元素继承*/
+    width: inherit;
+    position: absolute;
+    list-style: none;
+    padding: 3px;
+    border: solid 1px  #ff99aa;
+    background-color: #fff5f7;
+    /*border: 1px solid aqua;*/
+}
+/*hover时改变颜色和背景*/
+.sub li:hover{
+    color: white;
+    background-color: #ff99aa;
+    background-image: none;
+}
+.sub a{
+    color: #ff99aa;
+}
+
+
+

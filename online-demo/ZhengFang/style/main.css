@@ -1,0 +1,45 @@
+/*岭北 教务图片 容器*/
+.main_head{
+    height: 60px;
+    background-image: url("../picture/main_bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    /*border: 1px solid aqua;*/
+}
+/*岭北 教务图片*/
+.main_head h2{
+    height: 60px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    /*border: 1px solid aqua;*/
+}
+/*右上角用户信息*/
+div.info_bg{
+    height: 20px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 1px;
+    float: right;
+    background-color: rgba(255,255,255,0.5);
+    /*border: 1px solid aqua;*/
+}
+span.info_info{
+    float: right;
+    font-size: 13px;
+
+    /*border: 1px solid aqua;*/
+}
+
+/*退出按钮*/
+div.info_bg a{
+    color: #ff99aa;
+    text-decoration: none;
+}
+div.info_bg a:hover{
+    color: white;
+    background-color: #ff99aa;
+}
+
+

@@ -1,0 +1,14 @@
+.breadcrumb{
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    font-size: 13px;
+
+    color: #ff99aa;
+    /*border: 1px solid aqua;*/
+}
+.bfooter{
+    height: 15px;
+    margin-top: 1px;
+
+}

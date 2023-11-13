@@ -1,0 +1,32 @@
+/*头部 粉红背景*/
+body{
+    background-color: #fff;
+    background-image: url("../picture/login_bg.png");
+    background-repeat: repeat-x;
+    background-position: left top;
+    position: static;
+}
+/*main页面粉色边框*/
+body.main_body{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: 0px;
+    border: 5px solid #ff99aa;
+}
+/*main渐变色页脚*/
+div.main_footer{
+    width: 100%;
+    height: 50px;
+    background-image: url("../picture/login_ft.png");
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    bottom: 0px;
+    position: absolute;
+    /*border: 1px solid aqua;*/
+}
+
+
+

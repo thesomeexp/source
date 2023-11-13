@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShoppingCart-Vue</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <style>
+        .isChecked{
+            background-color: aqua
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        {{ message }}
+        <table border="1" cellspacing="0" cellpadding="3">
+            <tr>
+                <th></th>
+                <th>ID</th>
+                <th>书籍名称</th>
+                <th>出版日期</th>
+                <th>价格</th>
+                <th>购买数量</th>
+                <th>操作</th>
+            </tr>
+            <tr v-bind:class="{isChecked: book.state}" v-for="(book, index, key) in books" :key="book.id">
+                <td><input type="checkbox" v-model="book.state" ></td>
+                <td>{{ book.id }}</td>
+                <td>{{ book.name }}</td>
+                <td>{{ book.date }}</td>
+                <td>￥{{ priceFormat(book.price) }}</td>
+                <td align="center"><my-button :book='book' ></my-button></td>
+                <td><button @click="remove(book)">移除</button></td>
+            </tr>
+            <tr>
+                <td colspan="7"  v-if="this.books.length === 0">
+                    <div>
+                        {{ shoppingCartIsEmpty }}
+                    </div>
+                </td>
+            </tr>
+            <tr>
+        </table>
+        <h3>
+            总价格: ￥{{ total }}
+        </h3>
+        <div>{{ checkedBooks }}</div>
+    </div>
+</body>
+<script>
+    let myComponent = {
+        data: function () {
+            return {
+
+            }
+        },
+        props: {
+            'book': Object
+        },
+        template: '<div><button @click="(book.num > 1) ? book.num -= 1 : 1">-</button>{{ book.num }}<button @click="book.num += 1">+</button></div>'
+    }
+    const app = new Vue({
+        el: '#app',
+        data: {
+            checkedBooks: [],
+            shoppingCartIsEmpty: '购物车为空',
+            message: 'Vue实现的购物车', 
+            books: [
+                {
+                    id: 1,
+                    state: true,
+                    date: '2010-10', 
+                    price: '6000',
+                    num: 1,
+                    name: '《Java从入门到放弃》'
+                }, 
+                {
+                    id: 2,
+                    state: false,
+                    date: '2012-10', 
+                    price: '9000',
+                    num: 1,
+                    name: '《PHP从入门到放弃》'
+                }, 
+                {
+                    id: 3,
+                    state: false,
+                    date: '2013-10', 
+                    price: '8001',
+                    num: 1,
+                    name: '《Python从入门到放弃》'
+                }, 
+                {
+                    id: 4,
+                    state: false,
+                    date: '2011-10', 
+                    price: '7002',
+                    num: 1,
+                    name: '《什么都是从入门到放弃》'
+                }, 
+            ]
+        },
+        components: {
+            'my-button': myComponent,
+
+        },
+        methods: {
+            // 格式化输出金额的代码
+            priceFormat(int) {
+                if(int === '0')
+                    return '0.00'
+                int = int.split('').reverse().join('')
+                int = int.slice(0, 2) + '.' + int.slice(2) 
+                
+                if (int.length <= 3) 
+                    return '0' + int.split('').reverse().join('')
+                else 
+                    return int.split('').reverse().join('')
+            }, 
+            
+            remove(book) {
+                console.log(book);
+                this.books.splice(this.books.indexOf(book), 1)
+            }
+        }, 
+        computed: {
+            total() {
+                let total = 0
+                for (let book of this.books) {
+                    total += book.num * parseInt(book.price)
+                }
+                total = total + ''
+                return this.priceFormat(total)
+            }
+        },
+
+        beforeCreate() {
+            console.log('beforeCreate()')
+        },
+        created() {
+            console.log('created()')
+        },
+        beforeMount() {
+            console.log('beforeMount()')
+        },
+        mounted() {
+            console.log('mounted()')
+        },
+        beforeUpdate() {
+            console.log('beforeUpdate()')
+        },
+        updated() {
+            console.log('updated()')
+        },
+        beforeDestroy() {
+            console.log('beforeDestroy()')
+        },
+        destroyed() {
+            console.log('destroyed()')
+        },
+
+
+
+    })
+
+
+
+
+
+</script>
+</html>

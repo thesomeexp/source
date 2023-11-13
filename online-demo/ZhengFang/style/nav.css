@@ -1,0 +1,60 @@
+/*ul导航栏背景*/
+ul.nav{
+    height: 27px;
+    background: url("../picture/nav_bg.png");
+    /*样式*/
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /*字体*/
+    font-size: 12px;
+    padding: 0 0 0 0px;
+    /*border: 1px solid aqua;*/
+}
+/*ul导航栏下的li*/
+ul.nav li{
+    width: 84px;
+    height: 25px;
+    float: left;
+    padding: 0 0 0 0px;
+    text-align: center;
+    /*border: 1px solid aqua;*/
+}
+/*li块 链接样式*/
+ul.nav a span{
+    color: #ff99aa;
+    font-weight: bold;
+    text-decoration: none;
+    /*border: 1px solid aqua;*/
+}
+
+/*li块文字 居中后再下点*/
+ul.nav span{
+    display: inline-block;
+    margin-top: 5px;
+}
+/*无下拉三角的li背景*/
+li:hover {
+    background-image: url("../picture/nav_hoverbg.png");
+}
+/*有下拉三角的li背景*/
+li.nav_down{
+    background-image: url("../picture/nav_downbg.png");
+    /*border: 1px solid aqua;*/
+}
+/*有下拉三角的li背景*/
+li.nav_down:hover,li.nav_down:active{
+    background-image: url("../picture/nav_downhoverbg.png");
+}
+/*hover时显示sub*/
+li.nav_down:hover ul.sub{
+    display: block;
+}
+/*hover时字体颜色变化*/
+li.nav_simp:hover span{
+    color: #cf798a;
+}
+li.nav_down:hover span{
+    color: #cf798a;
+}

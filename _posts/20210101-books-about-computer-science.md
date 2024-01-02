@@ -4,7 +4,6 @@ original: true
 date: 2021-01-01
 updated: 2022-10-19
 tags: 
-  - Essay
   - Book
 urlname: books-about-computer-science
 ---

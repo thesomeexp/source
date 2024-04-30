@@ -10,6 +10,10 @@ urlname: books-about-computer-science
 计算机相关的书单, 非计算机类的书单请请看[这里这里](/post/the-book-i-read). 
 <!--more-->
 
+**2024:**
+
+[数据密集型应用系统设计 笔记](/books/designing-data-intensive-applications)
+
 **2023:**
 
 [Go语言圣经 笔记](/books/the-go-programming-language)
@@ -29,6 +33,8 @@ urlname: books-about-computer-science
 [图解 TCP/IP 笔记](/books/9787115318978)
 
 [图解 HTTP 笔记](/books/9787115351531)
+
+[Redis 设计与实现 笔记](/books/the-design-and-implementation-of-redis)
 
 [高性能MySQL-第3版 笔记](/books/hight-performance-mysql)
 

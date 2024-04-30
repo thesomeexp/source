@@ -2,7 +2,7 @@
 title: 看过的书
 original: true
 date: 2020-05-14
-updated: 2023-11-08
+updated: 2024-03-03
 tags: 
   - Essay
   - Book
@@ -11,7 +11,23 @@ urlname: the-book-i-read
 非计算机相关的书单. 计算机类的书单请请看[这里这里](/post/books-about-computer-science). 
 <!--more-->
 
+**2024:**
+
+**统计数据会说谎**
+
+[色彩设计的原理 笔记](/books/color-basic-design)
+
+[你的第一本保险指南(槽叔) 笔记](/books/9787508693156)
+
 **2023:**
+
+**皮肤的秘密**
+
+感觉这本书是 人体的故事 皮肤向很好的补充.
+
+**how to如何不切实际地解决实际问题**
+
+书如其名, 用科学的视角从不同角度来解决问题.
 
 **丁香医生人体调查组**
 
@@ -108,6 +124,8 @@ Funny. 好好锻炼.
 一直很想看的书, 为什么突然在2020寒假这段时间看了它呢? 因为某些原因, 作者直接免费分享了中文译本, 哈哈哈. 讲了作者自己从小到大的故事, 还有到最后流亡的故事. 
 
 **2019 及以前:**
+
+[只需倾听(马克•郭士顿(Mark Goulston)) 笔记](/books/just-listen-discover-the-secret-to-getting-through-to-absolutely-anyone)
 
 **1984(乔治·奥威尔)**
 关于老大哥的书肯定不能错过. 

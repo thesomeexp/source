@@ -6,6 +6,7 @@ updated: 2022-11-16
 tags: 
   - Lifestyle
 urlname: tidy-up-the-room-by-using-index
+noindex: true
 ---
 如何快速寻找房间的物品? 给房子里的东西建立索引. 这样就能方便找到它.
 <!--more-->

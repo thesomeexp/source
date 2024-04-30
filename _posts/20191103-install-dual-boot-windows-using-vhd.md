@@ -127,7 +127,7 @@ bcdedit /set {2d9bf36e-fdff-11e9-af65-502b73c09826} osdevice vhd=[c:]\VHDwindows
 ![查看目前系统的bcd](/picture/20191103-19.png)
 
 然后重启我们就能进入我们新建的VHD-win10了.
-![选择操作系统](/picture/20191103-20.png)
+![选择操作系统](/picture/20191103-20.jpg)
 # Summary
 操作比较繁琐. 
 

@@ -6,6 +6,7 @@ updated: 2020-08-13
 tags: 
   - Essay
 urlname: why-i-don't-want-to-translate-the-official-guidelines
+noindex: true
 ---
 Immerse myself in English. 
 <!--more-->

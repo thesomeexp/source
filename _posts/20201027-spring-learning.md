@@ -277,7 +277,7 @@ Service接口的默认实现是org.apache.catalina.core.StandardService, Standar
 
 整个Tomcat服务器启动流程就是: 
 
-![](/picture/2020-11-05-17-23-55.png)
+![](/picture/2020-11-05-17-23-55.jpg)
 
 ### 4.2.6 Tomcat的生命周期管理
 
@@ -303,7 +303,7 @@ Container是Tomcat中容器的接口, 因为作为Tomcat的容器组件所有有
 
 Container的子容器Engine, Host, Context, Wrapper是逐层包含的关系, 其中Engine是最顶层, 每个Service最多只能有一个Engine, 每个Engine里面可以有多个Host, 每个Host下可以有多个Context, 每个Context下可以有多个Wrapper. 
 
-![](/picture/2020-11-06-14-59-25.png)
+![](/picture/2020-11-06-14-59-25.jpg)
 
 - Engine: 引擎, 用来管理多个站点, 一个Service最多只能有一个Engine. (也就是很久之前结构图的Container)
 - Host: 代表一个站点, 也可以叫虚拟主机, 通过配置Host就可以添加站点. 
@@ -327,7 +327,7 @@ Tomcat启动时默认监听所有IP地址, 如果仅仅本地测试可以在Serv
 **Context**: 代表应用, 而ROOT目录里的应用就是主应用, 直接使用主机名/应用名就能访问对应的应用, 比如我们启动Tomcat后访问127.0.0.1/docs就能访问docs这个应用了. 
 
 ![](/picture/2020-11-06-15-07-58.png)
-![](/picture/2020-11-06-15-48-24.png)
+![](/picture/2020-11-06-15-48-24.jpg)
 
 4种容器的配置方法: 
 作者简化了默认配置来供我们学习哦: 
@@ -401,7 +401,7 @@ Container处理请求是使用Pipeline-Value管道来处理的. 这种处理方�
 
 简单来说Connector用来接收请求然后封装成Request和Response来具体处理, 它的底层就是使用Socket来进行连接的, Request和Response是按照HTTP协议来封装的, 所以Connector同时实现了TCP/IP协议和HTTP协议, 封装完之后就交给Container进行处理, Container就是Servlet的容器, 处理完后再返回给Connector最后Connector使用Socket将处理结果返回给客户端, 整个请求就处理完了. 作者提供的结构关系图: 
 
-![](/picture/2020-11-09-11-54-34.png)
+![](/picture/2020-11-09-11-54-34.jpg)
 
 // TODO: 砍刀部动手, 这部分细节就砍了
 
@@ -476,7 +476,7 @@ onRefresh()方法是DispatcherServlet入口方法, DispatcherServlet的创建过
 
 这一节doDispatch()内容有点多, //TODO: 以后再补了直接上图: 
 
-![](/picture/2020-11-09-17-07-08.png)
+![](/picture/2020-11-09-17-07-08.jpg)
 
 三个Servlet的处理过程大致如下: 
 - HttpServletBean: 没有参与实际请求的处理. 
@@ -522,7 +522,7 @@ DispatcherServlet中的doDispatch方法完成了SpringMVC中请求处理过程�
 
 Spring MVC是Spring的Web MVC模式框架,它主要是围绕处理请求分发的DispatcherServlet来设计的.它的具体流程如图4所示.
 
-![](/picture/2021-03-01-23-18-17.png)
+![](/picture/2021-03-01-23-18-17.jpg)
 DispatcherServlet的处理工作流
 
 Spring MVC的处理又和J2EE默认的分请求处理不一样,在这里它又用DispatcherServlet统一进行处理了,而请求如何进行处理又交给了doDispatch()方法来处理,其实就是调用各种相关的组件来各自处理.要解释各组件的处理流程,首先要分清楚三个概念.

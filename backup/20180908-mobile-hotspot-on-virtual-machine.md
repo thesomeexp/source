@@ -6,6 +6,7 @@ tags:
   - Virtual Machine
 urlname: mobile-hotspot-on-virtual-machine
 original: true
+noindex: true
 ---
 其实这件事捣鼓了两三个月了, 在 Ubuntu, CentOS, TinyCore 都不会用的情况下考虑回旧版的 Windows. <!--more-->
 先上效果图吧. 

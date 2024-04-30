@@ -7,6 +7,7 @@ tags:
   - Win10
 urlname: what-happens-when-you-turn-on-your-computer
 original: true
+noindex: true
 ---
 记录一下电脑的大致启动过程.
 <!--more-->

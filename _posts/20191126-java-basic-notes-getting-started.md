@@ -2853,7 +2853,7 @@ public void boxTest(Box<Number> n) { /* ... */ }
 
 这是一个使用泛型编程时的常用的误解, 但是这是一个值得学习的重要的观念. 
 
-![Box&lt;Integer>不是Box&lt;Number>的子类型, 尽管Integer是Number的子类型](/picture/20200720-0.png)
+![Box&lt;Integer>不是Box&lt;Number>的子类型, 尽管Integer是Number的子类型](/picture/20200720-0.jpg)
 
 注: 给定两个不同的类型A和B(例如Number和Integer), MyClass&lt;A>和MyClass&lt;B> 没有关系, 不管A和B有没有关系. MyClass&lt;A> 和MyClass&lt;B>的父类都是Object. 
 

@@ -1,7 +1,7 @@
 ---
 title: 如何使用 windows10
 date: 2020-02-08
-updated: 2022-05-30
+updated: 2024-08-23
 tags:
   - Win10
 urlname: how-to-use-windows10
@@ -52,18 +52,21 @@ runas /user:"USERNAME" /savecred "Full path of file"
 通过上面你可以看到我的电脑配置比你们的还低, 多么瞩目的2代i3. 
 我日常使用觉得不错的软件: 
 解压: 7-zip
-浏览器: firefox(别下载到某智版本)[https://www.mozilla.org/en-US/firefox/all.html](https://www.mozilla.org/en-US/firefox/all.html), brave, chrome, 新版Edge, Tor
-截屏: Snipaste
-录屏: OBS Studio
+浏览器: FireFox(注意某智特供版)[https://www.mozilla.org/en-US/firefox/all.html](https://www.mozilla.org/en-US/firefox/all.html), Brave, Chrome, 新版Edge, Tor
+截屏: ShareX, Snipaste
+录屏: OBS Studio, Screen To Gif
 视频播放器: VLC
-文本编辑器: Notepad++, vscode
+文本编辑器: Notepad++, VS Code
 pdf查看器: SumatraPDF
 安全防护: win10自带的Windows Defender
-虚拟机: Hyper-V, (自己用Vmware感觉方便点)
+虚拟机: Hyper-V, VMware
 密码管理: KeePass
-磁盘加密: win10自带的BitLocker, Veracrypt
+加密: BitLocker, Veracrypt, Cryptomator
 输入法: RIME
-其他: 7+ Taskbar Tweaker, DocFetcher, WinMerge, Rufus
+磁盘: CrystalDiskInfo, DiskGenius, WizTree
+系统优化/维护: Dism++, Office Tool Plus
+代理: V2rayN
+其他: 7+ Taskbar Tweaker, DocFetcher, WinMerge, Rufus, Stretchly, TrafficMonitor
 以上软件大多可绿色安装, 如果你有更好的软件推荐给我, 那么请联系我, 谢谢. 
 
 # 最后
@@ -71,3 +74,6 @@ pdf查看器: SumatraPDF
 各种问题. 
 
 我还写了[如何使用 Android](/post/how-to-use-android), 感兴趣就来看看呗.
+
+参考:
+[wfso.cn: Windows 实用软件推荐（持续更新）](https://blog.wfso.cn/archives/115/)

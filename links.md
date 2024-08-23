@@ -12,6 +12,7 @@ title: 链接
 - [jiangh](https://1byte.io/)
 - [jysperm](https://jysperm.me/)
 - [kkocdko](https://kkocdko.site)(想要很多很多钱的年轻人)
+- [Qute](https://blog.wfso.cn)
 - [maochongxin](http://maochong.xin/)
 - [tanglu](https://web.tanglu.me/)
 - [youxu.info](https://blog.youxu.info/)
@@ -49,6 +50,9 @@ title: 链接
 [在线桌球](http://www.heyzxz.me/pcol/)
 [在线词云](https://wordart.com/create)
 [在线多人海战游戏](https://mk48.io/)
+[flash保存计划](https://flash.homes/)
+[在线dos游戏](https://dos.zczc.cz/)
+[老游戏在线玩](https://zaixianwan.app/)
 
 **最后**
 

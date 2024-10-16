@@ -2,6 +2,7 @@
 title: 面试笔记
 noindex: true
 ---
+https://javaguide.cn
 https://github.com/CyC2018/CS-Notes 161k 疑似骗 star
 https://snailclimb.gitee.io/javaguide/#/ 131k
 https://doocs.gitee.io/advanced-java/#/ 68k

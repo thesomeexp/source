@@ -418,7 +418,50 @@ WOLL 中式硅胶铲
   </div>
 </div>
 
+**蓝牙小音箱**
 
+SONY/索尼 SRS-XB100
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2024-10-21_09-47-49.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>SONY/索尼 SRS-XB100 迷你便携重低音蓝牙音箱 防水防尘户外音箱</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥329起</span> (平:￥349)</div>
+    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DCzNYWbQfqX1w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2uFsyudytAREFAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMALm%2BG73GFCj5VDPwJriP0lqQ6sZp7gNLmb4%2BNtrBbTSz00URpx9OMJck6jANQrLv6VcLX3yA4PZqnUAb3IDNw%2B79%2F5URos%2Fc9fRTOH2ShG4%2BjO9AJYjY8CXJ%2BwEVkOqHFdIW9JNkz7%2FgDXc3BRboPmx3Pur14c%2F5%2FVB2hoy%2B6xkIzNeYKK0PFBA%3D%3D&union_lens=lensId%3APUB%401729475364%4021500f2a_0e23_192acc3c84b_af71%40023iz6MaQNokeGY8bcdMcPSl%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_2_1729475365019686960060%3Bscm%3A1007.30148.329090.pub_search-item_1a5ab6e1-fac1-4772-960c-c9cb665f2766_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAR0JK1olXDYCVV9dCU4UCmkNGlglGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloVXAMBXVhYCUgIWipURmsWJEd1LyAhWCttXy1sHgIPOE0GUAwtBEcnAl8LGlkWXgQLXFlZOHsXBF9edVsUXAcDVV9VC0snAl8IHVgdWAAGUV5bDksTM2gIEmtOCGgGAFdZCU5FUGwBGQhCbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA2YAH10VWgYASF5eD0wTAXMIHVgdWAAGUV5YCkgUM20JGl8cbTbc2e42C0JfYxoKf1hSKwd8Iwo81sanMxp1RQJoNX1CAFovUQ5CZDZ-SS8UKlF1ATBfezQWZy0KS1pBVGF6MQlZWDsnBl8">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=602659295065&pid=41453169_293850628&goods_sign=E932LjsF8c1gBAnxwvbefm4-Npgdfc3H_JDTCVirqG&cpsSign=CC_241021_41453169_293850628_1a53198591c3194ea5181db6320c7e5f&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
+  </div>
+</div>
+
+**电脑桌面音箱**
+
+创新 Creative Pebble V2
+无源音箱, 小巧圆润
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2024-10-21_09-26-57.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>创新科技（CREATIVE） Pebble V2 家用usb2.0桌面电脑音箱游戏笔记本小音箱 黑色</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥149起</span> (平:￥169)</div>
+    <div >渠道: <a href="https://uland.taobao.com/coupon/edetail?e=HWMPkcopFfylhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjL2Ga6budzjZBRiSTvdDln4sU5WTX45mRLwqX1O36ZnN0yB%2BZ8asloJY7fIZQOzGoBDdOM7EdlPMG4bVlo0QJT9KkZQi7JkfSgQ9QCyZlHKF%2BOOiX2Bc1NdfElqpTJaeTsLku60khAbJvK%2FkUHLifSs7niWF9jicFOo02EkWgRm1LQHYnBV6egeLea1xV7%2BxAwBPnQG9SaDjrzW1232VO2Uwf7N8f%2F64RgfKg%2BUo4rkzHxQhUgHt4YlKIyoh%2FWg%2FEukj7DNgliTXDluAYBRglsbQ%3D%3D&traceId=21367c7a17294742667634328ef2de&union_lens=lensId%3APUB%401729473845%40210477eb_0e19_192acac9892_dc68%40024H6mW9IfVTNg9dlEpZLisG%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_1_1729473845480686960060%3Bscm%3A1007.30148.329090.pub_search-item_9aab1f1a-6e4f-439c-a5c5-389d04f39379_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASgJK1olXQ8CUldfCUkVCl8IGloXXAcDUVdbDkoWAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0JGloQVAAEVV9cFxJSXzI4UF1VDWdqVSE4UUhPZw1Ocg11IENGJFJROEonAG4KGFgXVA4FUG5tCEwnQgEIGlsRWQ4HVm5cOEsRAGcNHV4VVQMHUF5tD0seMzRddV9BVAIDUQwOC0IVUDg4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAU0VAWoBG1sJXQYFUl5bFEsRAGcNHVkcVAcDXV5tCkoWB2Y4K4WbyXYLJBs-eB1WAmdDeixLFALc2sptfTZJWhJgYBtBWXRbBwQ6YTRFd2Z2TB9BMwRxK185SklHAjtMRwFUOFsBJG5YOA">京东</a></div>
+  </div>
+</div>
+
+**显示器**
+
+戴尔 Dell U2724D
+四边约等宽, 27寸, 2k, 120刷新, DCI-P3 98%, 对比度 2000:1 弥补没有 HDR 的差距. 
+戴尔主要贵在售后服务, 尽可能拉长保修时间.
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2024-10-21_09-37-13.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>Dell/戴尔27英寸显示器QHD高清IPS护眼防蓝光U2724D台式机办公</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥2499起</span> (平:￥2599)</div>
+    <div >渠道: <a href="https://uland.taobao.com/coupon/edetail?e=TcbO%2BhSWzRGlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJNkDm1NYkmKWX5DAIX2B4pLFbnlZpMPqa0OvxJskd3RpcXww86DQOG4oizZ5kIUjKlw1KFxqezxd2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSihzAeHNEYgTcWvDACNfo5agF%2BoW16y5N%2FGxWr9Yvy3vEXGyqsVme%2BZKas0nCaY%2Bve6WtfynQh5PS7VEw3MA%2FL0Qw3s64O4XTmKz9zjSaDuG195IErcpdrT5W9VDRQQ7feNyhNFbtZwFAhQI1vQ4QVYX44d%2BzmctAY&traceId=2106c34b17294745871397094e0f14&union_lens=lensId%3APUB%401729474545%402108b941_0ea8_192acb7482c_58d3%40026zRGVhdPh5xA7GmPMopBEd%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_1_1729474545739686960060%3Bscm%3A1007.30148.329090.pub_search-item_781c2340-31a6-4dfb-b47b-d59f8c4128f5_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARQJK1olXDYCVV9dDU8QAWoNElglGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloVWAIFVltYAUgIWipURmt2LXZ8BAo0Ei5wADh8RQ9wD013KB4tBEcnAl8LGlkWXgQLXFlZOHsXBF9DdVolXDYCUl1VDU0SBWsIHFgQbQECXW4GXSUTV2YMGl5HDgULVg0KOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4BUVtbCEkeH28JHFwUWRoCUl1VDU0SB28OHFkTbQQDVVpUOHvJjftgbjJXJgBeMx0OABVtWRgOxdWBbW97M1YPSz5UXRUAewBDOU9gAgw8CBwfXwEKYiBXWm9iECQDVRxhBjJaXR8lWDY">京东</a></div>
+  </div>
+</div>
 <!-- TEMPLATE
 <div style="display: flex;">
   <div style="width: 130px;">
@@ -427,6 +470,6 @@ WOLL 中式硅胶铲
   <div style="padding-left: 10px">
     <div>TEMPLATE</div>
     <div style="margin-top: 10px"><span style="color:#e62828">￥TEMPLATE起</span> (平:￥TEMPLATE)</div>
-    <div >渠道: <a href="TEMPLATE">天猫</a>, <a href="TEMPLATE">京东</a>, <a href="TEMPLATE">拼多多</a></div>
+    <div >渠道: <a href="TEMPLATE">淘宝</a>, <a href="TEMPLATE">京东</a>, <a href="TEMPLATE">拼多多</a></div>
   </div>
 </div> -->

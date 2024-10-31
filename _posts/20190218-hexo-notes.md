@@ -7,8 +7,9 @@ tags:
   - Note
 urlname: hexo-notes
 original: false
+description: Hexo 常用的一些命令与模板.
 ---
-发 Hexo 文章时常用的一些命令与模板.
+Hexo 常用的一些命令与模板.
 <!--more-->
 
 请以官网为主.

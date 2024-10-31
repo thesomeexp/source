@@ -6,6 +6,7 @@ tags:
   - Win10
 urlname: install-win10-ltsc
 original: true
+description: Win10 LTSC 安装教程
 ---
 只需 镜像 + U盘 就能重装系统. 
 <!--more-->

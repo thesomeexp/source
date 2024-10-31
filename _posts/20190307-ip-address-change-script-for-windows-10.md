@@ -6,6 +6,7 @@ tags:
   - Win10
 urlname: ip-address-change-script-for-windows-10
 original: true
+description: 使用 PowerShell 脚本更改 Windows 10 的 IP 地址.
 ---
 使用 PowerShell 脚本更改 Windows 10 的 IP 地址.
 <!--more-->

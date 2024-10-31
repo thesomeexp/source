@@ -7,6 +7,7 @@ tags:
   - Phone
 urlname: how-to-use-android
 original: true
+description: 使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用? 
 ---
 使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用? 
 <!--more-->

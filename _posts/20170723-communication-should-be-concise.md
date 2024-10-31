@@ -6,6 +6,7 @@ tags:
   - Essay
 urlname: communication-should-be-concise
 original: true
+description: 关于知识, 交流, 效率, 传播媒介的一点想法. 
 ---
 关于知识, 交流, 效率, 传播媒介的一点想法. 
 <!--more-->

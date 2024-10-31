@@ -8,10 +8,9 @@ tags:
   - Java
   - Note
 urlname: spring-learning
+description: 记录 Spring 的学习笔记
 ---
-
 记录 Spring 的学习笔记
-
 <!--more-->
 
 # 1. Spring整体设计理念和整体架构

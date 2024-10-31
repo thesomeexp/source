@@ -6,8 +6,9 @@ updated: 2022-05-30
 tags: 
   - Java
 urlname: servlet-filter
+description: 记录一些 Tomcat 容器中常见的 Filter 和作用.
 ---
-复习一下 Servlet 的 Filter 吧. 记录一些 Tomcat 容器中常见的 Filter 和作用.
+记录一些 Tomcat 容器中常见的 Filter 和作用.
 <!--more-->
 在Web容器中, Filter的作用是在访问特定资源前或后执行一些操作, 比如判断是否允许访问. 
 

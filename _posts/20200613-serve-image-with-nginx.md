@@ -8,9 +8,9 @@ tags:
   - Docker
   - Note
 urlname: serve-image-with-nginx
+description: 使用 Docker 和 Nginx 搭建图片服务器的示例.
 ---
-在电脑虚拟机中使用 Docker 和 Nginx 搭建图片服务器的示例.
-
+使用 Docker 和 Nginx 搭建图片服务器的示例.
 <!--more-->
 
 // docker挂载

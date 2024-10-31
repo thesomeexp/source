@@ -4,6 +4,7 @@ date: 2024-08-30
 updated: 2024-10-16
 urlname: shopping
 original: true
+description: 之前写的生活笔记网友反馈还行, 希望我能出一份带图文和链接的, 于是就诞生了这篇.
 ---
 之前写的[生活笔记](/post/life-notes)网友反馈还行, 希望我能出一份带图文和链接的, 于是就诞生了这篇.
 <!--more-->
@@ -83,6 +84,20 @@ OralB欧乐B扁牙线 舒适/劲爽
   </div>
 </div>
 
+**牙刷**
+
+狮王 细齿洁
+配合适合的刷牙方法 (比如巴氏刷牙法) 可以达到和电动牙刷一样的清洁效果.
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2024-10-21_12-06-17.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>LION狮王细齿洁弹力护龈软毛牙刷舒适全方位护理清洁</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥6.6/支起</span> (平:￥8.8/支)</div>
+    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3D5ChmyBUOvs5w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2vaMcd%2FDuD48FAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMAle6TfSqo9R%2FMn5BRE6jmETxuQjJRPetC8lyVWgn6Qe%2Fb977Qpfj%2FFwJ%2F78EP2kHiDZxt3coogoSkINuicjD9zkLEkqTedE399KEV1g6mN9D4ffm1tmHMg6OLNYUX96dVcSpj5qSCmbA%3D&union_lens=lensId%3APUB%401729484137%40210410fa_0e35_192ad49a565_6562%40024XsjvDS2KHKJkDwfoch4FU%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_13_1729484137915686960060%3Bscm%3A1007.30148.329090.pub_search-item_8c70435f-9251-41e8-999b-b1c70643d905_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASUJK1olXwQBXFdYC0wXB18IGlsUXAIKVldVC0kVBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24JH1MXVA4BVlxbFxJSXzI4TlNMOgVlLwg-UjVzXwYNBThdFGcEElJROEonAG4KGFgXVA4FUG5tCEwnQgEMGFsUVDYDZF5bC0MSCmoJH18TWgAyU15UOBBCbWtcEl8UWFRRV1dfWxwnM18LK1wVVBIEJh8PHE1lM18IK1glXQcCXVZZDEkXB2sUG1gRWA8ESF5bC0MSCm0MGVMRXQcyVl9cDEInM7GGjywXHwBYXQ0uCz1RR29-TVLL05IyAQ4hVABpShBNZCRzIgZqNSAGbkpVCg14dVlNA3pHJ1kaDg5yBx93UF10FDYHZA">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=82309320284&pid=41453169_293850628&goods_sign=E9b2sUBKcMhgBAnxwvbefjQeYgeGeASk_JQKp8cRWb&cpsSign=CC_241021_41453169_293850628_72d43abee85bb6a35edee0d5ef8c83a4&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
+  </div>
+</div>
 
 **剃须刀**
 

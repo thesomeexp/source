@@ -6,7 +6,8 @@
 # Site
 title: SomeExp
 subtitle:
-description:
+description: SomeExp's Blog
+head_icon: /unicorn.jpg
 keywords: SomeExp
 author: SomeExp
 language: zh-CN

@@ -1,5 +1,6 @@
 ---
 title: 关于
+description: About SomeExp's Blog
 ---
 
 记录一些技术性或好玩的东西. 希望世界更开源, 透明与自由.

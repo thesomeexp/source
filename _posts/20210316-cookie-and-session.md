@@ -6,6 +6,7 @@ updated: 2022-05-30
 tags: 
   - Network
 urlname: cookie-and-session
+description: Cookie, Session, Token, SessionId 到底是什么?
 ---
 Cookie, Session, Token, SessionId 到底是什么?
 <!--more-->

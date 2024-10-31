@@ -7,6 +7,7 @@ tags:
   - Network
   - Note
 urlname: basic-computer-network
+description: 记录计算机网络学习的笔记. 
 ---
 记录计算机网络学习的笔记. 
 <!--more-->

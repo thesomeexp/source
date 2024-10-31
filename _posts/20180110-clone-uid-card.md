@@ -6,6 +6,7 @@ tags:
   - RFID
 urlname: clone-uid-card
 original: true
+description: 克隆 MIFARE 门禁卡教程.
 ---
 21世纪初门禁系统运用得比较广泛了，最常见的莫过于刷卡的门禁。这篇文章以MIFARE卡为例，克隆一张可用的门禁卡。
 工具：可读写MIFARE卡片的手机(图为YoutaPhone 2)，白卡，一卡通门禁卡。

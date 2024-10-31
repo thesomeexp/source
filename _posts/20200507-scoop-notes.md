@@ -6,8 +6,9 @@ updated: 2022-11-16
 tags: 
   - Win10
 urlname: scoop-notes
+description: 简单记录下 Scoop 使用指南.
 ---
-Scoop 是一款非常好用的 Windows 包管理器. 简单记录下使用指南.
+简单记录下 Scoop 使用指南.
 <!--more-->
 可以使用 Scoop 来安装一些不需要 UAC 的软件. 当然你也可以使用微软官方的 WinGet.
 首先Powershell这里要修改成允许远程脚本执行: 

@@ -6,6 +6,7 @@ tags:
   - Java
 urlname: shallow-clone-and-deep-clone-of-string-in-java
 original: true
+description: Java 中 String 对象是如何进行克隆的
 ---
 String 类在 Java 中不是基础类型, 它又不继承 Cloneable, 那么该如何深克隆它呢? 
 <!--more-->

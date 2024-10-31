@@ -6,6 +6,7 @@ tags:
   - RFID
 urlname: change-MIFARE-cards-access-bits
 original: true
+description: 修改 MIFARE 控制字教程.
 ---
 控制字为4个字节,共32位,扇区中的每个块的存取条件是由密码和控制字共同决定的,在控制字中每个块都有相应的三个控制位.这三个控制位的值各为0或1.我们以控制字7F078869为例子.<!--more-->
 注意: 本文所指的控制字, 其实就是各控制位在访问控制列表(Access Control List, ACL)最后组合成的值.

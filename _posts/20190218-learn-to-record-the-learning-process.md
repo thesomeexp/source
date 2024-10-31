@@ -6,6 +6,7 @@ tags:
   - Essay
 urlname: learn-to-record-the-learning-process
 original: true
+description: 大学的迷茫
 ---
 最近这段时间感觉和大学开学一样甚是迷茫, 和刚入学的迷茫不一样, 刚入学可能以为好好学习, 跟上学校课程就不需要担心未来, 安安心心等学校分配工作. 
 <!--more-->

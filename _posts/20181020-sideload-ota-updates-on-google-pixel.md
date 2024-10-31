@@ -6,6 +6,7 @@ tags:
   - Phone
 urlname: sideload-ota-updates-on-google-pixel
 original: true
+description: 记录一下使用 adb 工具 sideload ota 的过程.
 ---
 记录一下使用 adb 工具 sideload ota 的过程. <!--more-->
 ## 注意:最好先备份手机的数据,8.1OTA到9.0后有些问题,所以最后我OTA完还重置了一下.

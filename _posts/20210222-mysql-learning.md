@@ -6,6 +6,7 @@ updated: 2022-05-30
 tags: 
   - MySQL
 urlname: mysql-learning
+description: 关于 MySQL 基础, 架构, 事物, 并发, 索引的笔记.
 ---
 关于 MySQL 基础, 架构, 事物, 并发, 索引的笔记.
 <!--more-->

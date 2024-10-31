@@ -7,6 +7,7 @@ tags:
   - Virtual Machine
 urlname: install-dual-boot-windows-using-vhd
 original: true
+description: 利用 VHD 不需要 UAC 就能给电脑跑分
 ---
 我只是想跑个鲁大师跑分, 又不想让鲁大师得到我使用系统的UAC.
 <!--more-->

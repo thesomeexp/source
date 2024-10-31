@@ -6,6 +6,7 @@ tags:
   - Essay
 urlname: self-reflection-2018
 original: true
+description: 大一第二个学期, 我在想些什么呢. 
 ---
 大一已步入第二个学期, 这个时候的我在想些什么呢. 
 <!--more-->

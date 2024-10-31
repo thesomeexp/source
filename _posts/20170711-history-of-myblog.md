@@ -6,6 +6,7 @@ tags:
   - Blog
 urlname: history
 original: true
+description: 记录 SomeExp 博客的变动历史. 
 ---
 记录 SomeExp 博客的变动历史. 
 <!--more-->

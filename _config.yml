@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://someexp.com
 root: /
-permalink: post/:urlname/
+permalink: :year/:urlname/
 permalink_defaults:
 
 # Directory
@@ -44,7 +44,6 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace: 
-
 
 archive_generator: 
   enabled: true

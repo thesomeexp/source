@@ -4,7 +4,7 @@ date: 2020-12-30
 updated: 2020-12-30
 tags:
   - Essay
-urlname: annual-summary-2020
+urlname: annual-summary
 original: true
 description: 2020这年我在想些什么呢? 
 ---

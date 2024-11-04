@@ -462,10 +462,25 @@ SONY/索尼 SRS-XB100
   </div>
 </div>
 
+**游戏键盘**
+
+赛睿 Apex Pro mini
+60%布局节约桌面空间, 线性磁轴, Rapid Trigger.
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2024-11-04_14-38-39.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>赛睿（SteelSeries） Apex Pro mini 有线键盘 磁轴键盘 RT急停可调触发键程</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥1140起</span> (平:￥1299)</div>
+    <div >渠道: <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASYJK1olXwIHXV9aCkwSCl8IGloUXgADVFpeC08nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGkJG18WXgIdDRsBVXtpQRMLbBt-OmUKEA4cAUhwUW4IGCNlUQoyVW5eCUkUAG0BE1wRbTYCU24fZp-jsbminjUUXgAyVW5dDkkWBW4LG10XWg4EZFldAXtMVgEMT1IRXANQB11UChhAM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZeCEgUAG4BB1sUWAADXUJdDkkWBW4LG1wRWQAHZFxcCU8eM1_Wlc9rWAVRHFYhXU50BAlSUz0Ug4iWZDY_SyhAfTkNRjxlDnRDXCUPXBdNRikObTUXVQZVDR4EaxNKQBwNTgtsD3YyUW4">京东</a></div>
+  </div>
+</div>
+
 **显示器**
 
 戴尔 Dell U2724D
-四边约等宽, 27寸, 2k, 120刷新, DCI-P3 98%, 对比度 2000:1 弥补没有 HDR 的差距. 
+四边约等宽, 27寸, 2k, 120刷新, DCI-P3 98%, 对比度 2000:1, 内置电源. 
 戴尔主要贵在售后服务, 尽可能拉长保修时间.
 <div style="display: flex;">
   <div style="width: 130px;">
@@ -485,6 +500,6 @@ SONY/索尼 SRS-XB100
   <div style="padding-left: 10px">
     <div>TEMPLATE</div>
     <div style="margin-top: 10px"><span style="color:#e62828">￥TEMPLATE起</span> (平:￥TEMPLATE)</div>
-    <div >渠道: <a href="TEMPLATE">淘宝</a>, <a href="TEMPLATE">京东</a>, <a href="TEMPLATE">拼多多</a></div>
+    <div >渠道: <a href="TEMPLATE">淘宝</a>, <a href="TEMPLATE">京东</a></div>
   </div>
 </div> -->

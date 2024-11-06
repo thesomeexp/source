@@ -416,7 +416,7 @@ Redis
 
 **quicklist**
 是 LinkedList 和 ziplist 的混合. 将 LinkedList 按段切分, 每一段使用 ziplist 存储. 多个 ziplist 使用双向指针串联器来.
-![quicklist](/picture/interview-quicklist.jpg)
+![quicklist](/picture/interview-quicklist.webp)
 
 内存淘汰机制
 Redis 提供 6 种数据淘汰策略:

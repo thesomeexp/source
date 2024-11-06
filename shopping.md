@@ -16,7 +16,7 @@ description: 之前写的生活笔记网友反馈还行, 希望我能出一份�
 优衣库大师T
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_10-12-49.jpg">
+    <img src="/picture/2024-08-30_10-12-49.webp">
   </div>
   <div style="padding-left: 10px">
     <div>2024优衣库男装女装U系列圆领短袖T恤正肩大师T</div>
@@ -35,7 +35,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 扁线比细线扁, 更顺滑
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_17-04-36.jpg">
+    <img src="/picture/2024-08-30_17-04-36.webp">
   </div>
   <div style="padding-left: 10px">
     <div>OralB欧乐B扁牙线正品微蜡成人款牙线盒便携舒适牙线棒家庭装40米</div>
@@ -50,7 +50,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 细线比扁线细, 操作更方便
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-09-02_14-40-09.jpg">
+    <img src="/picture/2024-09-02_14-40-09.webp">
   </div>
   <div style="padding-left: 10px">
     <div>小鹿妈妈贵虎牙线棒一次性牙线签共360支超细剔牙线棒便携家庭装</div>
@@ -62,7 +62,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 欧乐B OralB Y型 牙线棒
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-09-02_14-58-59.jpg">
+    <img src="/picture/2024-09-02_14-58-59.webp">
   </div>
   <div style="padding-left: 10px">
     <div>Oralb欧乐B牙线专业型立体压力可控牙线棒家用扁线剔牙线便携30支</div>
@@ -75,7 +75,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 屈臣氏 细滑深洁单线 独立包装 牙线棒
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_17-08-29.jpg">
+    <img src="/picture/2024-08-30_17-08-29.webp">
   </div>
   <div style="padding-left: 10px">
     <div>屈臣氏扁线护理牙线棒50支便携式独立包装随身装剔牙线牙签</div>
@@ -90,7 +90,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 配合适合的刷牙方法 (比如巴氏刷牙法) 可以达到和电动牙刷一样的清洁效果.
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-21_12-06-17.jpg">
+    <img src="/picture/2024-10-21_12-06-17.webp">
   </div>
   <div style="padding-left: 10px">
     <div>LION狮王细齿洁弹力护龈软毛牙刷舒适全方位护理清洁</div>
@@ -104,7 +104,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 米家电动剃须刀S100 (S302, S5, S7 系列)
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-58-32.jpg">
+    <img src="/picture/2024-08-30_16-58-32.webp">
   </div>
   <div style="padding-left: 10px">
     <div>小米官旗米家电动剃须刀S100双刀头男士刮胡刀水洗快充胡须刀便携</div>
@@ -122,7 +122,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 三利抗菌加厚毛巾
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_11-39-49.jpg">
+    <img src="/picture/2024-08-30_11-39-49.webp">
   </div>
   <div style="padding-left: 10px">
     <div>三利抗菌加厚毛巾2条A类吸水男女洗脸洗澡家用干发大面巾</div>
@@ -136,7 +136,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 8H 纤维枕
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_17-39-02.jpg">
+    <img src="/picture/2024-08-30_17-39-02.webp">
   </div>
   <div style="padding-left: 10px">
     <div>8H可机洗舒弹7D纤维枕成人护颈椎枕头全棉透气枕芯对装单人枕</div>
@@ -150,7 +150,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 凡士林大粉瓶
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_12-34-42.jpg">
+    <img src="/picture/2024-08-30_12-34-42.webp">
   </div>
   <div style="padding-left: 10px">
     <div>凡士林大粉瓶烟酰胺美白身体乳400ml滋润保湿男女</div>
@@ -164,7 +164,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 天堂 太阳伞
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_17-44-26.jpg">
+    <img src="/picture/2024-08-30_17-44-26.webp">
   </div>
   <div style="padding-left: 10px">
     <div>天堂伞黑胶防晒防紫外线遮阳伞太阳伞轻小巧便携折叠晴雨两用伞女</div>
@@ -179,7 +179,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 金属, 耐用
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-16_17-01-02.jpg">
+    <img src="/picture/2024-10-16_17-01-02.webp">
   </div>
   <div style="padding-left: 10px">
     <div>IKEA宜家SNOSKYFFEL斯诺许弗鞋拔子长柄家用鞋溜子提鞋器穿鞋神器</div>
@@ -193,7 +193,7 @@ OralB欧乐B扁牙线 舒适/劲爽
 Mistine 小黄帽防晒霜
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_13-48-26.jpg">
+    <img src="/picture/2024-08-30_13-48-26.webp">
   </div>
   <div style="padding-left: 10px">
     <div>Mistine 小黄帽防晒霜</div>
@@ -207,7 +207,7 @@ Mistine 小黄帽防晒霜
 多芬 丰盈宠肤滋养美肤沐浴乳
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_14-00-05.jpg">
+    <img src="/picture/2024-08-30_14-00-05.webp">
   </div>
   <div style="padding-left: 10px">
     <div>多芬深层营润滋养美肤沐浴乳</div>
@@ -221,7 +221,7 @@ Mistine 小黄帽防晒霜
 海飞丝专研去屑洗发水 头皮控油排浊型
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_14-12-00.jpg">
+    <img src="/picture/2024-08-30_14-12-00.webp">
   </div>
   <div style="padding-left: 10px">
     <div>清扬去屑止痒控油洗发水蓬松洗头膏</div>
@@ -235,7 +235,7 @@ Mistine 小黄帽防晒霜
 黑人双重薄荷牙膏
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_14-24-12.jpg">
+    <img src="/picture/2024-08-30_14-24-12.webp">
   </div>
   <div style="padding-left: 10px">
     <div>好来darlie原黑人牙膏双重薄荷含氟正品</div>
@@ -249,7 +249,7 @@ Mistine 小黄帽防晒霜
 奥妙深层洁净洗衣液
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_15-10-18.jpg">
+    <img src="/picture/2024-08-30_15-10-18.webp">
   </div>
   <div style="padding-left: 10px">
     <div>奥妙深层洁净洗衣液天然浓缩酵素去除顽渍</div>
@@ -263,7 +263,7 @@ Mistine 小黄帽防晒霜
 超细纤维抹布
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_15-25-25.jpg">
+    <img src="/picture/2024-08-30_15-25-25.webp">
   </div>
   <div style="padding-left: 10px">
     <div>3M思高超细纤维抹布洗碗布厨房专用不沾油吸水不掉毛加厚洗碗布</div>
@@ -273,7 +273,7 @@ Mistine 小黄帽防晒霜
 </div>
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_15-27-28.jpg">
+    <img src="/picture/2024-08-30_15-27-28.webp">
   </div>
   <div style="padding-left: 10px">
     <div>3M思高超细纤维家务清洁厨房用品擦手巾挂式吸水懒人抹布不易掉毛</div>
@@ -288,7 +288,7 @@ Mistine 小黄帽防晒霜
 可摞放, 承重, 透明, 通用, 易补货.
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_15-42-46.jpg">
+    <img src="/picture/2024-08-30_15-42-46.webp">
   </div>
   <div style="padding-left: 10px">
     <div>爱丽思抽屉式收纳箱衣柜透明收纳盒塑料整理箱衣服</div>
@@ -300,7 +300,7 @@ Mistine 小黄帽防晒霜
 天马 Tenma 劳克斯 ROX 系列 (660L)
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-17-14.jpg">
+    <img src="/picture/2024-08-30_16-17-14.webp">
   </div>
   <div style="padding-left: 10px">
     <div>Tenma天马ROX劳克斯收纳箱家用衣服被子整理箱车载后备储物箱</div>
@@ -312,7 +312,7 @@ Mistine 小黄帽防晒霜
 天马 Fits 系列(F330)
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-07-09.jpg">
+    <img src="/picture/2024-08-30_16-07-09.webp">
   </div>
   <div style="padding-left: 10px">
     <div>Tenma天马抽屉收纳柜</div>
@@ -325,7 +325,7 @@ Mistine 小黄帽防晒霜
 WOLL 中式硅胶铲
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-25-20.jpg">
+    <img src="/picture/2024-08-30_16-25-20.webp">
   </div>
   <div style="padding-left: 10px">
     <div>德国WOLL硅胶铲不粘锅专用耐高温260度家用炒菜锅铲中式硅胶锅铲</div>
@@ -337,7 +337,7 @@ WOLL 中式硅胶铲
 双枪纹理合金筷
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-30-45.jpg">
+    <img src="/picture/2024-08-30_16-30-45.webp">
   </div>
   <div style="padding-left: 10px">
     <div>双枪合金筷子家用高档2024新款防滑防霉耐高温家庭装10双商用</div>
@@ -349,7 +349,7 @@ WOLL 中式硅胶铲
 康宁晶彩/晶钻锅
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-40-29.jpg">
+    <img src="/picture/2024-08-30_16-40-29.webp">
   </div>
   <div style="padding-left: 10px">
     <div>康宁玻璃锅晶彩透明炖汤锅炖盅炒锅明火直烧家用耐高温易清洗单锅</div>
@@ -364,7 +364,7 @@ WOLL 中式硅胶铲
 全身可拆 (MMJ-A48C-XCX480ml/MMJ/A36C-WM360ml)
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_16-48-26.jpg">
+    <img src="/picture/2024-08-30_16-48-26.webp">
   </div>
   <div style="padding-left: 10px">
     <div>日本正品虎牌TIGER梦重力MMJ-A系列MMJ-AO系列不锈钢保温杯便携</div>
@@ -382,7 +382,7 @@ WOLL 中式硅胶铲
 小米插座
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-16_16-39-37.jpg">
+    <img src="/picture/2024-10-16_16-39-37.webp">
   </div>
   <div style="padding-left: 10px">
     <div>小米米家插座5孔智能定时插排家用插线板电源接线板wifi远程控制</div>
@@ -395,7 +395,7 @@ WOLL 中式硅胶铲
 山形结构插口利用率高, 建议选总控
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-16_16-45-56.jpg">
+    <img src="/picture/2024-10-16_16-45-56.webp">
   </div>
   <div style="padding-left: 10px">
     <div>松下 排插1.8米带线插板多功能电源插座插线板插排独立开关接线板</div>
@@ -424,7 +424,7 @@ WOLL 中式硅胶铲
 无风扇系列比一般的电陶炉有更低的故障率
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-16_16-55-32.jpg">
+    <img src="/picture/2024-10-16_16-55-32.webp">
   </div>
   <div style="padding-left: 10px">
     <div>尚朋堂电陶炉家用爆炒小型电磁炉智能台式煮茶炉大功率电池灶节能</div>
@@ -438,7 +438,7 @@ WOLL 中式硅胶铲
 SONY/索尼 SRS-XB100
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-21_09-47-49.jpg">
+    <img src="/picture/2024-10-21_09-47-49.webp">
   </div>
   <div style="padding-left: 10px">
     <div>SONY/索尼 SRS-XB100 迷你便携重低音蓝牙音箱 防水防尘户外音箱</div>
@@ -453,7 +453,7 @@ SONY/索尼 SRS-XB100
 无源音箱, 小巧圆润
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-21_09-26-57.jpg">
+    <img src="/picture/2024-10-21_09-26-57.webp">
   </div>
   <div style="padding-left: 10px">
     <div>创新科技（CREATIVE） Pebble V2 家用usb2.0桌面电脑音箱游戏笔记本小音箱 黑色</div>
@@ -468,7 +468,7 @@ SONY/索尼 SRS-XB100
 60%布局节约桌面空间, 线性磁轴, Rapid Trigger.
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-11-04_14-38-39.jpg">
+    <img src="/picture/2024-11-04_14-38-39.webp">
   </div>
   <div style="padding-left: 10px">
     <div>赛睿（SteelSeries） Apex Pro mini 有线键盘 磁轴键盘 RT急停可调触发键程</div>
@@ -484,7 +484,7 @@ SONY/索尼 SRS-XB100
 戴尔主要贵在售后服务, 尽可能拉长保修时间.
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-10-21_09-37-13.jpg">
+    <img src="/picture/2024-10-21_09-37-13.webp">
   </div>
   <div style="padding-left: 10px">
     <div>Dell/戴尔27英寸显示器QHD高清IPS护眼防蓝光U2724D台式机办公</div>
@@ -495,7 +495,7 @@ SONY/索尼 SRS-XB100
 <!-- TEMPLATE
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/TEMPLATE.jpg">
+    <img src="/picture/TEMPLATE.webp">
   </div>
   <div style="padding-left: 10px">
     <div>TEMPLATE</div>

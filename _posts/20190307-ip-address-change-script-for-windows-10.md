@@ -46,11 +46,3 @@ Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
 嘿嘿嘿.对了,上面只是开启的脚本,关闭的还不会写,所以回到宿舍还是得手动设置一下动态获取ip和dns.
 
 参考资料:[微软官方文档](https://docs.microsoft.com/zh-cn/previous-versions/windows/powershell-scripting/hh826150%28v%3dwps.620%29)
-
-
-
-
-
-
-
-

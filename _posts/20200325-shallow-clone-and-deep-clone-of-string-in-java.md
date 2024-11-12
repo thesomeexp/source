@@ -104,26 +104,3 @@ t**e
 你可以发现clone方法是用native关键字修饰的, 说明该方法是一个原生态方法, 方法对应的实现不是在当前文件, 而是在用其他语言(如C和C++)实现的文件中. 如果不是这样它将无法复制. 
 
 参考: [Why is #clone() not in the Cloneable interface?](https://stackoverflow.com/questions/13670152/why-is-clone-not-in-the-cloneable-interface)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

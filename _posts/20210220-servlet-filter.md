@@ -92,9 +92,6 @@ javax.servlet.http.HttpFilter继承GenericFilter对请求和响应是否是http�
 - SetCharacterEncodingFilter: 字符集编码过滤器, 通常在解析请求前使用来强制指定编码.
 - WebdavFixFilter: 修复与微软的WebDAV客户端连接的过滤器.
 
-
-
-
 参考:
 [JAVAWEB开发之Servlet Filter（过滤器）详解包括post和get编码过滤器、URL访问权限控制、自动登录。以及装饰模式的使用
 ](https://blog.csdn.net/u013087513/article/details/56835894)

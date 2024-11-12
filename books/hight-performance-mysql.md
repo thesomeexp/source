@@ -4,4 +4,4 @@ noindex: true
 ---
 看两遍
 
-[MySQL学习笔记](/post/mysql-learning)
+[MySQL学习笔记](/2021/mysql-learning)

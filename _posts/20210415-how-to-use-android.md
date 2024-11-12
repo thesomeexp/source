@@ -12,7 +12,7 @@ description: 使用 Android 的指南. 正确使用姿势是什么? 如何隔离
 使用 Android 的指南. 正确使用姿势是什么? 如何隔离流氓应用? 
 <!--more-->
 
-不知道你是不是从 [如何使用windows10](/post/how-to-use-windows10) 过来的呢?
+不知道你是不是从 [如何使用windows10](/2020/how-to-use-windows10) 过来的呢?
 
 # 关于系统
 

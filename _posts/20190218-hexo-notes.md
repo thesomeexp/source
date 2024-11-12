@@ -74,7 +74,7 @@ hexo d
 ~~~
 **Bold**
 ~~~
-[超链接](/post/how-to-quickly-use-hexo/):
+[超链接](/2019/hexo-notes/):
 ~~~
 [content](link_address)
 <a href="目标文件路径及全称" target="_blank">链接文本</a>
@@ -102,18 +102,3 @@ your_code
 
 参考资料:
 [标记语言Markdown的基本语法](https://www.jianshu.com/p/4b22ac88810c)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

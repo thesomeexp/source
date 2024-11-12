@@ -148,7 +148,7 @@ Spring通过jdk和cglib两个精彩的实现了AOP, 虽然我们用起来很简�
 
 ## 4.1 网络基础知识
 
-在此之前先学习一下[计算机网络基础知识](/post/basic-computer-network). 
+在此之前先学习一下[计算机网络基础知识](/2020/basic-computer-network). 
 
 在BS结构中使用到了DNS协议, 而且在HTTP上层还有相关规范, 如Java Web开发中使用的是Servlet标准. 标准就是规范, 都是不能干活的, 能干活的就是实现了Servlet标准的Tomcat这种Servlet容器. 
 

@@ -8,7 +8,7 @@ tags:
   - Book
 urlname: the-book-i-read
 ---
-非计算机相关的书单. 计算机类的书单请请看[这里这里](/post/books-about-computer-science). 
+非计算机相关的书单. 计算机类的书单请请看[这里这里](/2021/books-about-computer-science). 
 <!--more-->
 
 **2024:**

@@ -74,7 +74,7 @@ pdf查看器: SumatraPDF
 我写得不是很详细, 很多细节都没有加, 我希望各位能够善于利用搜索引擎, 解决你们遇到的
 各种问题. 
 
-我还写了[如何使用 Android](/post/how-to-use-android), 感兴趣就来看看呗.
+我还写了[如何使用 Android](/2021/how-to-use-android), 感兴趣就来看看呗.
 
 参考:
 [wfso.cn: Windows 实用软件推荐（持续更新）](https://blog.wfso.cn/archives/115/)

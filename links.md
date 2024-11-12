@@ -55,5 +55,8 @@ title: 链接
 [flash保存计划](https://flash.homes/)
 [在线dos游戏](https://dos.zczc.cz/)
 [老游戏在线玩](https://zaixianwan.app/)
+[在线养鱼](https://goldfishies.com/?utm_source=pocket_mylist)
 [随机动画](https://bleuje.com/randomanimations/)
 [网页上的宇宙飞船](http://www.websiteasteroids.com/)
+[在线吹泡泡](https://oimo.io/works/bubbles/)
+[微软出品: 在浏览器里玩游戏](https://www.msn.cn/zh-cn/play/)

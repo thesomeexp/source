@@ -7,7 +7,7 @@ tags:
   - Book
 urlname: books-about-computer-science
 ---
-计算机相关的书单, 非计算机类的书单请请看[这里这里](/post/the-book-i-read). 
+计算机相关的书单, 非计算机类的书单请请看[这里这里](/2020/the-book-i-read). 
 <!--more-->
 
 **2024:**
@@ -44,8 +44,8 @@ urlname: books-about-computer-science
 
 **2020:**
 
-[Spring技术内幕：深入解析Spring框架相关笔记](/post/spring-learning)
+[Spring技术内幕：深入解析Spring框架相关笔记](/2020/spring-learning)
 
-[计算机网络-自顶向下方法(中文第六版) 笔记](/post/basic-computer-network/)
+[计算机网络-自顶向下方法(中文第六版) 笔记](/2020/basic-computer-network/)
 
 [软件秘笈-设计模式那点事-代码笔记](https://github.com/thesomeexp/DesignPatternLearning)

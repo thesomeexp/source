@@ -6,6 +6,7 @@ tags:
   - Essay
 urlname: unfairness-of-medical-insurance
 original: true
+description: 我这么起标题, 是因为我是真的很生气, 但是有什么办法? 我也希望有办法.
 ---
 我这么起标题, 是因为我是真的很生气, 但是有什么办法? 我也希望有办法.
 

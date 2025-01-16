@@ -76,3 +76,5 @@ Tricky Towers
 A Way Out
 It Takes Two
 Unravel Two
+
+如果遗老们想要找回以前老游戏的感觉, 不应该指望新游戏往回走, 去复刻老游戏, 而是应该直接去玩老游戏. 老游戏依然有它的光芒, 都是时代的选择, 没有好坏. 

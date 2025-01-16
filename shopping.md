@@ -145,20 +145,6 @@ OralB欧乐B扁牙线 舒适/劲爽
   </div>
 </div>
 
-**身体乳**
-
-凡士林大粉瓶
-<div style="display: flex;">
-  <div style="width: 130px;">
-    <img src="/picture/2024-08-30_12-34-42.webp">
-  </div>
-  <div style="padding-left: 10px">
-    <div>凡士林大粉瓶烟酰胺美白身体乳400ml滋润保湿男女</div>
-    <div style="margin-top: 10px"><span style="color:#e62828">￥36.9起</span>/400ml瓶 (平:￥56.9)</div>
-    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3D45UuSycpfstw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2RB3R4rQ88FcFAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMA%2Fp0jvryeGb5HNEhsu7Hj2f1SarTXhIOT%2FcbizUjsed8AefKg1NmUnvt%2FEG5vuQlRjT33hxmC4E1xRxjIleDkW6RevfgQWW4NUK%2BUq57wNZmMJi1gYBJvNFSsXCNd9EoxE59iYTGkDbXThu38KHQcJsdObJWPLFZ6o78KeqxqaS6cBnQj1r%2B3uQ%3D%3D&union_lens=lensId%3APUB%401724996973%400bbb1138_0e61_191a1d4f569_d697%40022kDlnuJAxwfHr6FY2rxM2N%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_e71ac637-1553-400e-93fc-750e63103611_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARIJK1olXwQLXF1cCkofB18IGlodVQ4DUVleCUMTAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcAE1oQWgUDXFpcFxJSXzI4TjgQFX53NgI_DQtRSA91HRlxGXRUNFJROEonAG4KGFgXVA4FUG5tCEwnQgEIHlsdWg8KVm5cOEsRAGoAE1gSVA8AV15tD0seMzRddV9BVAIDUQwOC0IVUDg4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAUIeAWoMGFgJXQYDU11fFEsRAGoAE1gSXA4HVVZtCkoWB2Y4K2tgIFhbKTYmSB8TQihNWyQWVWB5VSIfAEh5ARx3Gj9XX1YDABorCBxrBQ54K14l">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=512669426245&pid=41453169_293850628&goods_sign=E9r21Tc0XNFgBAnxwvbdsvL4RZHfS5tf_J2l6FB94y&cpsSign=CC_240830_41453169_293850628_cde44bb9299814c0440e783b1d3b384a&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
-  </div>
-</div>
-
 **晴雨伞**
 
 天堂 太阳伞
@@ -185,20 +171,6 @@ OralB欧乐B扁牙线 舒适/劲爽
     <div>IKEA宜家SNOSKYFFEL斯诺许弗鞋拔子长柄家用鞋溜子提鞋器穿鞋神器</div>
     <div style="margin-top: 10px"><span style="color:#e62828">￥4.99起</span> (平:￥8.99)</div>
     <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DjtYEogxDavBw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2UlC9hCFYFNEFAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMAJfDA9SPBFivKsCFUQRkSkqLWMw3EOEsyJN2owMjhufwDudUsQ2T%2BdlmDm0MR1MJBHRKXpqR%2F4i87r0dva%2BHwiAoTkGZeFIPvvPhTv2j9oRishGRwLNbcbbTO8hVXH49zb%2FnUHMQd619pUGia%2FgLBpJjuEkrqH8Q8DJbuZDCrHt4%3D&union_lens=lensId%3APUB%401729069197%4021040d00_0e75_192948e2903_2959%40024S2CB4Vooz99Bg598yKYQq%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_4_1729069197662686960060%3Bscm%3A1007.30148.329090.pub_search-item_7293aa28-a16e-424d-801f-d3fae7e2fdd3_">淘宝</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=446847588650&pid=41453169_293850628&goods_sign=E9n2ymB_575gBAnxwvbeY6MfZ7ZWCbF4_JQZlEWDiav&cpsSign=CC_241016_41453169_293850628_08e58a33e9e689129a7c4a1c2dd76827&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
-  </div>
-</div>
-
-**防晒霜**
-
-Mistine 小黄帽防晒霜
-<div style="display: flex;">
-  <div style="width: 130px;">
-    <img src="/picture/2024-08-30_13-48-26.webp">
-  </div>
-  <div style="padding-left: 10px">
-    <div>Mistine 小黄帽防晒霜</div>
-    <div style="margin-top: 10px"><span style="color:#e62828">￥64起</span>/40ml (平:￥69)</div>
-    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DsKF5ciI2MmVw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2mvd6270fcEUFAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMABizlFEWC1FgSnEeX2MbJXv1SarTXhIOT%2FcbizUjsed%2FKYPyW%2FCAmi3qcLF3MJyIp%2BC6HEQcYteSP6DGaaBhscNwKJ4hn2DI%2Bjd0ie292NRmjO9AJYjY8CXJ%2BwEVkOqHFdIW9JNkz7%2FgDXc3BRboPmyx3X8hB4isWSUyKPTYbbg05hDCuE8TSLA%3D%3D&union_lens=lensId%3APUB%401724996335%40210713e5_0dc8_191a1cb3927_0b6e%400224FFQw8jLRzfcOYA6m1Um8%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_d1f84776-068d-43bc-b93a-670499a45d53_">天猫</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARQJK1olXwMEU1lYDUkQB18IGloVXQ8BVV5dDUInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXA2YLGlsVWA8dDRsBVXsXYxZKGz4UL2NFHDoKCjVWeApYQBh1UQoyVW5eCUkUAG0BE1wRbTYCU24fZhdPQSpQRA_M25_Wx-xaOEonA2kLHlMdWwcEUl5UAXsQA2Y4QA57WVILUF9YWhgUCm1bTGslbQUyU15UHE1lQj0cHSklbQYyV25dCUsfAW0KE14QWBoCVFlUDUgLA2kLHlMdWwcEVVxZCXsVAm4MEmslbXZnMRcdXhtjARILSBxhJG9kISQnXxRMRQEKfS9TNn5kXApfTSJMcClyHR0lWDY">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=604188716471&pid=41453169_293850628&goods_sign=E9j2LsY60yNgBAnxwvbdsi1dWTuwbYw9_JQimSsNlO7&cpsSign=CC_240830_41453169_293850628_171cee31f7db11aa3257cfddb760d708&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
   </div>
 </div>
 
@@ -479,7 +451,7 @@ SONY/索尼 SRS-XB100
 
 **显示器**
 
-戴尔 Dell U2724D
+戴尔 Dell U2724D / U2723QE (4k)
 四边约等宽, 27寸, 2k, 120刷新, DCI-P3 98%, 对比度 2000:1, 内置电源. 
 戴尔主要贵在售后服务, 尽可能拉长保修时间.
 <div style="display: flex;">

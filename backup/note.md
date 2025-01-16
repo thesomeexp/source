@@ -4,12 +4,10 @@ noindex: true
 ---
 土豆
 穿搭，摄影
-测试数据生成, 测试工具并发
-关节内紊乱，咬合不正
+咬合不正(关节内紊乱)
 牙齿矫正
 洗牙
 牙齿黑缝，右上异味
-大型空气净化器放家里
 人类心理历史
 
 书单
@@ -31,9 +29,6 @@ noindex: true
 (美国 财富 杂志 必读 睿智 图书
 美国最有影响力的十大图书
 Dk系列科普书)
-
-每年
-洗牙
 
 健康卫生生活习惯作息
 饭后漱口
@@ -119,66 +114,14 @@ TED 10 ways to have a better conversation
 低于15度洗澡太冷(羽绒可以顶)
 17度穿卫衣
 
-土豆游戏 健身环
-FF 15
-死或生6
-破晓传说
-辐射4
-模拟山羊
-Deadcell 
-怪物猎人
-地平线5
-十三机兵防卫圈
-东森
-P5R
-FF7 remake 
-the legend of zelda
-pokemon sword and shield
-super mario maker 2
-luigi&apos;s mansion 3
-鬼泣5
-kingdom hearts 3
-小缇娜的奇幻之地
-Crash Team Racing
-鬼野西部
-老头环
-火影忍者 对打
-
 补票
 开发的项目组说不定早就解散了吧，开发团队还在的就补
-
-摸鱼: https://goldfishies.com/
-摸鼠: https://hammyhome.com/
-把地平线退了 https://slowroads.io/
-在线联机反恐精英https://playcsol.com/
-
-多人同屏游戏
-Moving Out 史低24 ✅ 
-Unrailed Epic 白给 史低 17 ✅ 
-Cuphead 史低 47 
-Gang beasts 史低 30 ✅ 
-Ultimate Chicken Horse 史低 21✅
-Broforce 史低 9 ✅
-HELLDIVERS 史低 17 ✅ 
-Magicka 2: Gates of Midgård 史低 6 ✅
-Tricky Towers 史低 15 ✅ 
-
-双人
-A Way Out 史低 39 ✅
-It Takes Two 史低 79 ✅ 
-Unravel Two 史低 11 ✅
-
-单机游戏缺点
-仁王 画质不行 按键奇怪 系统内容复杂
-古墓丽影 废手柄 简单难度也不简单
-极品飞车 烧显卡
-星露谷物语 过场转场黑屏久
 
 土豆电影
 搏击俱乐部
 图灵密码 The Turing Enigma (2011)
 猫鼠游戏
-教父
+教父 // done
 弱点
 盗梦空间
 血观音
@@ -218,8 +161,6 @@ surface 用起来心累, 各种调优
 Surface pro 7 plus i5 平板使用场景？
 Surface Laptop Studio 没有场景
 三星 galaxy pro
-Dell latitude 7370
-Dell xps 9365
 
 雅思
 1 自控力

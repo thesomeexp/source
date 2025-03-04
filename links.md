@@ -11,7 +11,7 @@ title: 链接
 | [greatdk](https://greatdk.com) | [jiangh](https://1byte.io/) | [jysperm](https://jysperm.me/) |
 | [kkocdko](https://kkocdko.site) | [Qute](https://blog.wfso.cn) | [maochongxin](http://maochong.xin/) |
 | [tanglu](https://web.tanglu.me/) | [youxu.info](https://blog.youxu.info/) | [7gugu's Blog](https://www.7gugu.com/) |
-| [戴磊笔记](http://www.daileinote.com/) |  |  |
+| [戴磊笔记](http://www.daileinote.com/) | [狡猫三窝](https://slykiten.com/) |  |
 
 **工具类**
 

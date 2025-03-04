@@ -12,35 +12,35 @@ urlname: books-about-computer-science
 
 **2024:**
 
-[数据密集型应用系统设计 笔记](/books/designing-data-intensive-applications)
+[数据密集型应用系统设计 笔记](/book/designing-data-intensive-applications)
 
 **2023:**
 
-[Go语言圣经 笔记](/books/the-go-programming-language)
+[Go语言圣经 笔记](/book/the-go-programming-language)
 
 **2022:**
 
-[图解密码学技术 笔记](/books/9787115424914)
+[图解密码学技术 笔记](/book/9787115424914)
 
-[Java并发编程实战 笔记](/books/java-concurrency-in-practice)
+[Java并发编程实战 笔记](/book/java-concurrency-in-practice)
 
 **2021:**
 
-[深入理解计算机系统 笔记](/books/csapp)
+[深入理解计算机系统 笔记](/book/csapp)
 
-[编写可读代码的艺术 笔记](/books/the-art-of-readable-code)
+[编写可读代码的艺术 笔记](/book/the-art-of-readable-code)
 
-[图解 TCP/IP 笔记](/books/9787115318978)
+[图解 TCP/IP 笔记](/book/9787115318978)
 
-[图解 HTTP 笔记](/books/9787115351531)
+[图解 HTTP 笔记](/book/9787115351531)
 
-[Redis 设计与实现 笔记](/books/the-design-and-implementation-of-redis)
+[Redis 设计与实现 笔记](/book/the-design-and-implementation-of-redis)
 
-[高性能MySQL-第3版 笔记](/books/hight-performance-mysql)
+[高性能MySQL-第3版 笔记](/book/hight-performance-mysql)
 
-[MySQL必知必会 笔记](/books/mysql-crash-course)
+[MySQL必知必会 笔记](/book/mysql-crash-course)
 
-[SQL必知必会-中文-第4版 笔记](/books/sams-teach-yourself-sql-in-10-minutes)
+[SQL必知必会-中文-第4版 笔记](/book/sams-teach-yourself-sql-in-10-minutes)
 
 **2020:**
 

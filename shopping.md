@@ -131,20 +131,6 @@ OralB欧乐B扁牙线 舒适/劲爽
   </div>
 </div>
 
-**枕头**
-
-8H 纤维枕
-<div style="display: flex;">
-  <div style="width: 130px;">
-    <img src="/picture/2024-08-30_17-39-02.webp">
-  </div>
-  <div style="padding-left: 10px">
-    <div>8H可机洗舒弹7D纤维枕成人护颈椎枕头全棉透气枕芯对装单人枕</div>
-    <div style="margin-top: 10px"><span style="color:#e62828">￥49起</span> (平:￥70)</div>
-    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3D27LpG1Q3hXdw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2NLbotWTvHtoFAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMARGztaYhXojxdUsMlFq9S7aLWMw3EOEsya4IwMROmDeIuJfJnVcqUlErn5QBMTEwatsUtaYi5YWHvLhzb%2BjqZsQw2bnhBWab0nwkXKj3qIaqzXyu8SuaSlI%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYu9YY89nTcJHE94mmiMbVfA%2F2M1EmHU4zIMYOae24fhW0&union_lens=lensId%3APUB%401725010645%400bf8e0ca_0e5d_191a2a592a3_2b7e%40021CmyCMk0LsLMvEeMd2Y7Tn%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_7c4a9db6-0817-4383-a852-c9bb26850ad7_">天猫</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARcJK1olXwICUVxVCEsUAl8IGloUXQ8KUVlcC0InRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWA2YAHlwUXg8dDRsBVXtTazlYGDJdQ2RkVx08CxZkcChUGFhlUQoyVW5eCUkUAG0BE1wRbTYCU24fZkJO1_CPzdCeiqCkjefc3MCxM244G10WWQcCVVdUCkgSC18PG1IlBlNsUApUDEoSUTwLEllGCjYyZF1tD0seF2l6WgkBW3QyZF5tC3sXAm8BHVgTWAEAXUJdC0wfA2cUG10WWQcCVVdUCUMUAl8KGloRVDYyZAYbbBZtVmtfZTkSG05ACjwNcQlhaiR3QzUXCFEHMRoOVgtpYj1WYlxdAlIyUW4">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=7318879015&pid=41453169_293850628&goods_sign=E9L2o95zxbNgBAnxwvbdsspWrTbpINLe_JQbZLGipfT&cpsSign=CC_240830_41453169_293850628_1f9bf4ab3b2449b4dc8cef8af19f5745&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
-  </div>
-</div>
-
 **晴雨伞**
 
 天堂 太阳伞

@@ -26,9 +26,9 @@ urlname: the-book-i-read
 
 **统计数据会说谎**
 
-[色彩设计的原理 笔记](/books/color-basic-design)
+[色彩设计的原理 笔记](/book/color-basic-design)
 
-[你的第一本保险指南(槽叔) 笔记](/books/9787508693156)
+[你的第一本保险指南(槽叔) 笔记](/book/9787508693156)
 
 **2023:**
 
@@ -52,13 +52,13 @@ urlname: the-book-i-read
 
 一开始，工作伦理是一种非常有效的手段，它可以帮助急需劳动力的工厂迅速扩充人员。随着劳动力迅速变成提高生产力的障碍，工作伦理仍然可以发挥作用，但这次是作为另一种有效手段：洗涤社会中正常人的双手和良知，帮他们从抛弃同胞致使同胞永久失业的罪责中摆脱出来。在对穷人的道德进行谴责的同时，对非穷人的道德实施赦免，通过这种双管齐下的方法，达到双手和良心的洁净。
 
-[社会学百科 笔记](/books/the-sociology-book)
+[社会学百科 笔记](/book/the-sociology-book)
 
-[经济学百科 笔记](/books/the-economics-book)
+[经济学百科 笔记](/book/the-economics-book)
 
-[哲学百科 笔记](/books/the-philosophy-book)
+[哲学百科 笔记](/book/the-philosophy-book)
 
-[爱情心理学百科 笔记](/books/the-psychology-of-attraction)
+[爱情心理学百科 笔记](/book/the-psychology-of-attraction)
 
 **家庭收纳1000例**
 
@@ -85,17 +85,17 @@ DK 出的一本非常全面系统的关于人类食物的科普书, 感觉比公
 
 **2022:**
 
-[默克家庭医学手册 笔记](/books/the-merck-manual-home-health-handbook)
+[默克家庭医学手册 笔记](/book/the-merck-manual-home-health-handbook)
 
-[小家, 越住越大 笔记](/books/9787508660196)
+[小家, 越住越大 笔记](/book/9787508660196)
 
 **蔡康永的说话之道**
 
-[创造时间 笔记](/books/make-time)
+[创造时间 笔记](/book/make-time)
 
-[美国纽约摄影学院摄影教材 笔记](/books/new-york-institute-of-photography)
+[美国纽约摄影学院摄影教材 笔记](/book/new-york-institute-of-photography)
 
-[English Grammar In Use 笔记](/books/english-grammar-in-use)
+[English Grammar In Use 笔记](/book/english-grammar-in-use)
 
 **简读中国史**
 同样是老大推荐的书, 但是老大只是看书评视频并没看过原书. 作者将中国历史放在世界历史中对比和解说, 感觉是很好的历史入门大纲脉络书, 如果毕业后没读过历史书, 基本上对历史的了解也就只停留在教科书层面. 书中谈中外不同文化的形成的原因, 产生的结果, 并联系到今天我们的一些文化观念. 书中有些章节与内容我认为放在当下讨论是比较危险的, 甚至怀疑这本书为什么没被 ban. 总之还是非常推荐的一本.
@@ -136,7 +136,7 @@ Funny. 好好锻炼.
 
 **2019 及以前:**
 
-[只需倾听(马克•郭士顿(Mark Goulston)) 笔记](/books/just-listen-discover-the-secret-to-getting-through-to-absolutely-anyone)
+[只需倾听(马克•郭士顿(Mark Goulston)) 笔记](/book/just-listen-discover-the-secret-to-getting-through-to-absolutely-anyone)
 
 **1984(乔治·奥威尔)**
 关于老大哥的书肯定不能错过. 

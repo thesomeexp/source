@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://someexp.com
+url: https://p2gg.com
 root: /
 permalink: :year/:urlname/
 permalink_defaults:
@@ -84,6 +84,18 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-light-simple
 markdown: 'default'
+plugins:
+  hexo-generator-feed
+#Feed Atom
+feed:
+  type: 
+    - atom
+    - rss2
+  path: 
+    - atom.xml
+    - rss2.xml
+  limit: 20
+  content: false
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

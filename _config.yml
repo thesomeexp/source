@@ -9,7 +9,8 @@ subtitle:
 description: SomeExp's Blog
 head_icon: /unicorn.jpg
 keywords: SomeExp
-author: SomeExp
+author: thesomeexp
+author_url: https://github.com/thesomeexp
 language: zh-CN
 timezone: Asia/Shanghai
 

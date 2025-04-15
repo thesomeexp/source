@@ -74,7 +74,11 @@ description: 记录每位热心病友的经验分享.
 湿房镜, 绷带镜, 巩膜镜
 [陶勇医生: 长时间对电脑, 如何缓解视疲劳?](https://article.xuexi.cn/articles/index.html?art_id=14700073875214592325)
 
-**四 其它**
+**四 相关文章**
+
+[Stevens-Johnson 综合征和中毒性表皮坏死松解症的眼科表现：叙述性综述](https://pmc.ncbi.nlm.nih.gov/articles/PMC10157599/)
+
+**五 其它**
 
 海露玻璃酸钠优惠券 (微信每月领1次, 券后最低 52/支)
 ![hylo_qr](/picture/hylo_qr.jpg)

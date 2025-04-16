@@ -457,7 +457,7 @@ SONY/索尼 SRS-XB100
   </div>
   <div style="padding-left: 10px">
     <div>TEMPLATE</div>
-    <div style="margin-top: 10px"><span style="color:#e62828">￥TEMPLATE起</span> (平:￥TEMPLATE)</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥--起</span> (平:￥--)</div>
     <div >渠道: <a href="TEMPLATE">淘宝</a>, <a href="TEMPLATE">京东</a></div>
   </div>
 </div> -->

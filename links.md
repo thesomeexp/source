@@ -1,17 +1,22 @@
 ---
 title: 链接
 ---
-![picsum.photos](https://picsum.photos/800/450)
 **博客类**
 
-我收纳的博客站点. 大部分都是单链, 如果你有推荐可以pr到[该.md文件](https://github.com/thesomeexp/source/blob/master/links/index.md)下, 我会回访并决定是否添加, 一些无效的链接也会定时清理啦.
-|  |  |  |
-|---|---|---|
-| [Alex](https://vincent1q84.github.io) | [CatChen](https://chinese.catchen.me) | [Fengz' notes](https://sync.sh/) |
-| [greatdk](https://greatdk.com) | [jiangh](https://1byte.io/) | [jysperm](https://jysperm.me/) |
-| [kkocdko](https://kkocdko.site) | [Qute](https://blog.wfso.cn) | [maochongxin](http://maochong.xin/) |
-| [tanglu](https://web.tanglu.me/) | [youxu.info](https://blog.youxu.info/) | [7gugu's Blog](https://www.7gugu.com/) |
-| [戴磊笔记](http://www.daileinote.com/) | [狡猫三窝](https://slykiten.com/) |  |
+我收纳的博客站点, 如果你有推荐可以提 PR 到[该文件](https://github.com/thesomeexp/source/blob/master/links.md)下, 我会回访并决定是否添加, 无效的链接会被清理.
+
+[Alex](https://vincent1q84.github.io): The future is already here — it's just not very evenly distributed.
+[CatChen](https://chinese.catchen.me)
+[greatdk](https://greatdk.com): 王登科-DK博客
+[jiangh](https://1byte.io): 江宏的个人博客
+[jysperm](https://jysperm.me): 王子亭的博客
+[kkocdko](https://kkocdko.site)
+[maochongxin](http://maochong.xin): 毛崇鑫的blog
+[Qute](https://blog.wfso.cn): 折腾、探索、生活、思考
+[sync.sh](https://sync.sh): 实践极简生活方式
+[youxu.info](https://blog.youxu.info): 徐宥
+[7gugu's Blog](https://www.7gugu.com): 做人咧，最紧要系开心🥳
+[狡猫三窝](https://slykiten.com): “美”不是一种外部标准，它是一种内在情感。那是爱。
 
 **工具类**
 
@@ -29,6 +34,7 @@ title: 链接
 [Hexed](https://hexed.it/)
 [iHateRegex](https://ihateregex.io/)
 [ipleak](https://ipleak.net)
+[JSON Editor Online](https://jsoneditoronline.org/)
 [lunar-birthday-calendar](https://lunar-birthday-calendar-web.firebaseapp.com/)
 [photopea](https://www.photopea.com/)
 [placekitten.com](https://placekitten.com) 

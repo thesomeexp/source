@@ -1,7 +1,7 @@
 ---
 title: Stevens-Johnson 综合征自救指南
-date: 2025-03-22
-updated: 2025-03-22
+date: 2025-03-22 14:09
+updated: 2025-03-22 14:09
 tags: 
   - Guide
 urlname: stevens-johnson-syndrome-self-rescue-guide

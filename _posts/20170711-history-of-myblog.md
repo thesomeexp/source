@@ -6,9 +6,9 @@ tags:
   - Blog
 urlname: history
 original: true
-description: 记录 SomeExp 博客的变动历史. 
+description: 记录博客的变动历史. 
 ---
-记录 SomeExp 博客的变动历史. 
+记录博客的变动历史. 
 <!--more-->
 
 博客一开始部署在虚拟主机中, 后因为博主没钱于是转向了一些提供静态网页托管服务的平台. 比如 GitHub.

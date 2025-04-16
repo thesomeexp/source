@@ -1,19 +1,13 @@
 ---
 title: 关于
-description: About SomeExp's Blog
+description: About SomeExp Blog
 ---
 
-记录一些技术性或好玩的东西. 希望世界更开源, 透明与自由.
+希望世界更开源, 透明与自由.
 
 - 博主是90后.
-- 随着时间的推移, 博主可能不再赞同之前的各种观点.
-
-常用联系:
-
 - GitHub<a href="https://github.com/thesomeexp"><img src="https://github.com/favicon.ico"  width="16" /></a>:[thesomeexp](https://github.com/thesomeexp)
-- Bluesky<a href="https://bsky.app/profile/someexp.bsky.social"><img src="https://bsky.app/static/favicon-16x16.png"  width="16" /></a>: [@someexp.bsky.social](https://bsky.app/profile/someexp.bsky.social)
-
-~~如果你需要给我发送比较重要的信息以及数据, 请使用 PGP 进行加密. Public Key可到[PGP全球目录](https://keyserver.pgp.com)搜索.~~
+- 订阅: [Atom](/atom.xml)/[RSS](/rss2.xml)
 
 书单: 
 - [计算机相关](/2021/books-about-computer-science)

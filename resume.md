@@ -4,7 +4,7 @@ noindex: true
 ---
 梁志荣/男/25岁/Java经验2年+ 
 - 电话: l3527832l34 / 邮箱: [zeawinl@gmail.com](mailto:zeawinl@gmail.com)
-- GitHub: [thesomeexp](https://github.com/thesomeexp) / 简历: [someexp.com/resume](https://someexp.com/resume)
+- GitHub: [thesomeexp](https://github.com/thesomeexp) / 简历: [thesomeexp.github.io/resume](https://thesomeexp.github.io/resume)
 
 **技术能力:** 
 - 具有扎实的 Java 基础, 对常见的集合类 (HashMap) 的实现有一定的了解.

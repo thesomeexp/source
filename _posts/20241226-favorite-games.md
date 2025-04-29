@@ -1,7 +1,7 @@
 ---
 title: 我喜欢的游戏
-date: 2024-12-25
-updated: 2025-04-29
+date: 2024-12-25 13:00
+updated: 2025-04-29 13:00
 tags: 
   - Game
 urlname: favorite-games

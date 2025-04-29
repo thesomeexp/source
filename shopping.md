@@ -13,15 +13,15 @@ description: 之前写的生活笔记网友反馈还行, 希望我能出一份�
 <div id="衣"/>
 
 **衣**
-优衣库大师T
+京东京造 重磅小白T
 <div style="display: flex;">
   <div style="width: 130px;">
-    <img src="/picture/2024-08-30_10-12-49.webp">
+    <img src="/picture/2024-08-30_10-12-49.jpg">
   </div>
   <div style="padding-left: 10px">
-    <div>2024优衣库男装女装U系列圆领短袖T恤正肩大师T</div>
-    <div style="margin-top: 10px"><span style="color:#e62828">￥79起</span> (平:￥99)</div>
-    <div >渠道: <a href="https://uland.taobao.com/coupon/edetail?e=6dZBLCEqU%2BulhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOUV9IBA4kmjLxk%2BeBis4XAxHr%2FRcavd77GG5nSY4RdGD%2FkqQx6o0RmYaR1JpsBnrDynKNDH3y%2Bweuxuj0qbV0sS4bVlo0QJT9KkZQi7JkfSgQ9QCyZlHKF%2BOOiX2Bc1NdUPXNp9l2fVz4f0HIhfRlCfK%2FkUHLifSs7niWF9jicFOo02EkWgRm1LQHYnBV6egeLea1xV7%2BxAwBEoaIN4Ose5WvcM5XKTP%2Bpy2gzo744YQc1UTgFTnIfHxQhUgHt4YlKIyoh%2FWg%2FEukj7DNgliTXCdSoYdoEE2iA%3D%3D&traceId=213de2a117249929983143322e6e83&union_lens=lensId%3APUB%401724992988%40213f33f2_0ebf_191a1982511_e285%40026qGRI0Mw4uKMcTdsCmo13V%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_6e16d125-69e0-4503-9038-bd9c52b8462b_">淘宝</a>, <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DA%2BRd9yrSoFBw4vFB6t2Z2ueEDrYVVa64g3vZOarmkFi53hKxp7mNFiR5%2BH%2FcjJJ249R3CbGBnR0FAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMAaxywkqvHLejUTBxNyFgQ2pESMSIvSnZOMN7NXhFCiymXCQW8BtBCCP1H3kv58uxWqEnqsugtWE2Ec7l%2F15dnWj9SYoR9bEUnvP47Zh1TGehvj%2Fzn19%2F9gpGZ9wPRcXV%2BQ%2FMlsmagC3RKHbfo7Z4n5BvDq7weM34jxiXvDf8DaRs%3D&union_lens=lensId%3APUB%401724992819%40216640ab_0ebd_191a19591d2_7a88%40024nPmbCWZwTYO3FPB8zFJ8I%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_71372d50-6001-4c31-9082-6a1b268feea3_">淘宝(女装)</a></div>
+    <div>京东京造【重磅小白T】潮流净色多色圆领t恤男夏短袖打底T 藏青 M</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥49.9起</span></div>
+    <div >渠道: <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAS8JK1olXQUDU1taC0seBF8IGloUVAABUFpfDEInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWCmkLH18XWQ8dDRsBVXtIcyRBeiBqOWVxABwfADhqRRwIHBhDUQoyVW5eCUkUAG0BE1wRbTYCU24LZksWAm4JE1wSXAUyVW5dDk4TAGYMG1sdXQIKZFldAXtMVgEMT1IRXANQB11UChhAM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZdCUoQAmcIB1sWVAQKUUJdDk4TAGYMG1oWXQMBZFxcCU8eM1_Wlut3XWJkIlYdACJLdCthcjlwg4uyRSwtCE8WBX44XAB2GgNHDzopDhQWRTNufxNuKmJECwABZkkRAQR0clxjIHJ9AiNfQBAUeV8NK2s">京东</a></div>
   </div>
 </div>
 
@@ -391,7 +391,7 @@ WOLL 中式硅胶铲
   </div>
 </div>
 
-**蓝牙小音箱**
+<!-- **蓝牙小音箱**
 
 SONY/索尼 SRS-XB100
 <div style="display: flex;">
@@ -403,7 +403,7 @@ SONY/索尼 SRS-XB100
     <div style="margin-top: 10px"><span style="color:#e62828">￥329起</span> (平:￥349)</div>
     <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DCzNYWbQfqX1w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2uFsyudytAREFAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMALm%2BG73GFCj5VDPwJriP0lqQ6sZp7gNLmb4%2BNtrBbTSz00URpx9OMJck6jANQrLv6VcLX3yA4PZqnUAb3IDNw%2B79%2F5URos%2Fc9fRTOH2ShG4%2BjO9AJYjY8CXJ%2BwEVkOqHFdIW9JNkz7%2FgDXc3BRboPmx3Pur14c%2F5%2FVB2hoy%2B6xkIzNeYKK0PFBA%3D%3D&union_lens=lensId%3APUB%401729475364%4021500f2a_0e23_192acc3c84b_af71%40023iz6MaQNokeGY8bcdMcPSl%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3Asearch_selectionPlaza_site_4358_0_0_0_2_1729475365019686960060%3Bscm%3A1007.30148.329090.pub_search-item_1a5ab6e1-fac1-4772-960c-c9cb665f2766_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAR0JK1olXDYCVV9dCU4UCmkNGlglGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloVXAMBXVhYCUgIWipURmsWJEd1LyAhWCttXy1sHgIPOE0GUAwtBEcnAl8LGlkWXgQLXFlZOHsXBF9edVsUXAcDVV9VC0snAl8IHVgdWAAGUV5bDksTM2gIEmtOCGgGAFdZCU5FUGwBGQhCbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA2YAH10VWgYASF5eD0wTAXMIHVgdWAAGUV5YCkgUM20JGl8cbTbc2e42C0JfYxoKf1hSKwd8Iwo81sanMxp1RQJoNX1CAFovUQ5CZDZ-SS8UKlF1ATBfezQWZy0KS1pBVGF6MQlZWDsnBl8">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=602659295065&pid=41453169_293850628&goods_sign=E932LjsF8c1gBAnxwvbefm4-Npgdfc3H_JDTCVirqG&cpsSign=CC_241021_41453169_293850628_1a53198591c3194ea5181db6320c7e5f&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
   </div>
-</div>
+</div> -->
 
 **电脑桌面音箱**
 
@@ -420,7 +420,7 @@ SONY/索尼 SRS-XB100
   </div>
 </div>
 
-**游戏键盘**
+<!-- **游戏键盘**
 
 赛睿 Apex Pro mini
 60%布局节约桌面空间, 线性磁轴, Rapid Trigger.
@@ -433,7 +433,7 @@ SONY/索尼 SRS-XB100
     <div style="margin-top: 10px"><span style="color:#e62828">￥1140起</span> (平:￥1299)</div>
     <div >渠道: <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASYJK1olXwIHXV9aCkwSCl8IGloUXgADVFpeC08nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAGkJG18WXgIdDRsBVXtpQRMLbBt-OmUKEA4cAUhwUW4IGCNlUQoyVW5eCUkUAG0BE1wRbTYCU24fZp-jsbminjUUXgAyVW5dDkkWBW4LG10XWg4EZFldAXtMVgEMT1IRXANQB11UChhAM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZeCEgUAG4BB1sUWAADXUJdDkkWBW4LG1wRWQAHZFxcCU8eM1_Wlc9rWAVRHFYhXU50BAlSUz0Ug4iWZDY_SyhAfTkNRjxlDnRDXCUPXBdNRikObTUXVQZVDR4EaxNKQBwNTgtsD3YyUW4">京东</a></div>
   </div>
-</div>
+</div> -->
 
 **显示器**
 

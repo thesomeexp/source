@@ -85,4 +85,4 @@ description: 记录每位热心病友的经验分享.
 
 感谢: [@孜孜不卷(小红书)](https://www.xiaohongshu.com/user/profile/5e913068000000000100bb78)(巩膜镜相关分享), [@陆大叔(小红书)](https://www.xiaohongshu.com/user/profile/5f942e8200000000010096e3), [@隐藏的小马甲(小红书)](https://www.xiaohongshu.com/user/profile/54165079b4c4d610ba4464ee)
 及病友群所有提供过帮助的朋友们, 好人一生平安.
-如果你需要帮助/提供帮助, 微信联系(小梁): IIIlllIIIlllIlIlll
+如果你需要帮助/提供帮助, 微信联系(小梁): test-gg

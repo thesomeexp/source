@@ -1,6 +1,6 @@
 ---
 title: 关于
-description: About SomeExp Blog
+description: About p2gg Blog
 ---
 
 希望世界更开源, 透明与自由.

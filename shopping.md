@@ -99,6 +99,19 @@ OralB欧乐B扁牙线 舒适/劲爽
   </div>
 </div>
 
+**漱口杯**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-04-16_14-22-36.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>日本沥水洗漱漱口杯塑料情侣家用简约牙刷杯食品级</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥9.9起</span></div>
+  </div>
+</div>
+一般漱口杯底部水渍不好清洗, 这款设计规避了底部积水的可能. 缺点是装水的容积少了. 
+
 **剃须刀**
 
 米家电动剃须刀S100 (S302, S5, S7 系列)
@@ -112,6 +125,20 @@ OralB欧乐B扁牙线 舒适/劲爽
     <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3D3uLbmTaOnXBw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2lHrq09pQKx0FAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMA56F5Zqo3WVe%2BIXecXv9yqv1SarTXhIOT%2FcbizUjsed9oiSB3o2d%2BH%2B%2FSCeVBAME9R0lFLbo4JBmITDkKK0YG%2Fdbe%2FXWsi12ju4sSErMzeryMJi1gYBJvNFSsXCNd9EoxE59iYTGkDbXThu38KHQcJiHEdUBcCdgW%2BzaiG9GT9YywPtx8qiSrcQ%3D%3D&union_lens=lensId%3APUB%401725008280%40212c11a3_2201_191a2817d3a_d2a2%400224Fo1aObHUXnAbKQ5jHAxJ%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_7a1adf3b-38de-46e0-b031-a91fa729d601_">天猫</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQcJK1olXDYCVV9cCUwWBWYKHlIlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXAEDUldfDUIIWipURmtzIWN2Ai1ZSylkUzV8AV5OKwFJKQgtBEcnAl8LGlkWXgQLXFlZOHsXBF9edVsUXAcDVVtdC0knAl8IHVgRXAcLVlpVCEoSM2gIEmtOCGgGAFdZCU5FUGwBGQhCbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA2cIGloSXQcLSF5cCUgfBnMIHVgRXAcLVlpaCE8QM20JGl8cbTYyISMDUTZ_eC9cHxpNNFtyNT87eE11XyRDdVlmIgdmFlwNCR8eZBdzGghsLTYHZA">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=586195514997&pid=41453169_293850628&goods_sign=E9z2KhG3SOFgBAnxwvbdsrIuaQo8UZNV_JQXRRG3IMU&cpsSign=CC_240830_41453169_293850628_b99ed30978178ef3aab2ccfc76eb2244&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
   </div>
 </div>
+
+**化妆镜**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-05-16_11-58.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>斐色耐JIUJIU化妆镜带灯镜子桌面梳妆镜智能日光高清led网红美妆镜</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥189起</span> (平:￥200)</div>
+    <div >渠道: <a href="https://uland.taobao.com/coupon/edetail?e=BQwHdpL%2FCEOlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWBzzpT26idJtFWK1uXuuwOm4uKA3JCLsGbQXYVZGzl%2B5QW27mLO1sJqv8cE6dQTeEKyblJWkNjRl%2Bcx4uLS14Z2hpSzkXEPijTU8DC75RBxBxjzytuc9qfZwVjqoCQFC0HrDiSiwDSi39JfIyQPGyNvY11IE%2B%2BKu6VvURXJ6OS3GxWr9Yvy3vEXGyqsVme%2BZKas0nCaY%2Bve6WtfynQh5PS7VEw3MA%2FL0QhNXOOcu33lqowPvRZxPyd95IErcpdrT7zUX4QjNoGko0EzVBgpjgTahiwsdOwg7AIau621gO82&traceId=0b52068217483122103016207efa17&union_lens=lensId%3APUB%401748312062%402106eb1f_0d5c_1970f84fa63_df36%40024GAd4NGaS3usyL6Qe0sZHU%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_1748312062637686960060%3Bscm%3A1007.30148.329090.pub_search-item_f007c380-5cdb-49c0-bf5e-2a2fdefcfdf7_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATQJK1olXg4LV1xYDE4XA18IGloQWgADU1xUCEgUAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoPHVoSXw8CV11fFxJSXzI4QUV3IX1bIB09XSlDA3FUTDJrKRxDElJROEonAG4KGFgXVA4FUG5tCEwnQgEIElkUXwMyVW5dDk4eAW8IHFscXAEFZFldAXtMVgEMT1IRXANQB11UChhAM184GGsSXQ8WUiwcWl8RcV84G2sWbURsU1hVChkeVD0OSVxHWFMDBA1cCh4TCjwPTl1BXFUKVg5tCkoWB2Y4K4WY7WV3VToWCRwWamxpQ1JVKV7c2e5MejsXAWcKCmtoKFB8JwwpTy1VXiprey5GLQFcMAo8WxZ5ARNIT1oTA3JmMgkDcw8UQyxRK14lWwQEZA">京东</a></div>
+  </div>
+</div>
+因为每晚都要用牙线清洁口腔, 搭配这个最合适不过了. 如果浴室光源不好, 化妆镜在房间里就能整理仪容仪表.
 
 <div id="居家日用"/>
 
@@ -130,6 +157,76 @@ OralB欧乐B扁牙线 舒适/劲爽
     <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DijKSugIYHK9w4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFiR5%2BH%2FcjJJ2ypfo343NwN0FAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMA9wuojHulLY2CbQDM35gOLP1SarTXhIOTUdDn0Cj7EhMIdWPTLryf1RgmVf%2FYp4M560f7a65W6Om31TcedKT6JV64b5ViiCmBcukXLLwbhKp8tLDWAPCoso%2BDKwFLEd9Q5dUsQ8NYvbj%2B58h5pKGYuyZUAbTa1tZ83uEEEQUrtpnGDF1NzTQoPw%3D%3D&union_lens=lensId%3APUB%401724997004%402146b347_0eb2_191a1d56d38_99bc%400265JezLH5T0Zpzet6Dafyzb%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358%3Bscm%3A1007.30148.329090.pub_search-item_005e9afe-3bce-409b-9022-bae8849f73dc_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwQAVVhYC04XB18IGloUXgYAVVdYDkknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAG8KGlIQWwQdDRsBVXt8eAdjZCB8FWNiBD5ZWxNnQAt8cANDUQoyVW5eCUkUAG0BE1wRbTYCU24fZhBCbS1YRAZNbQcyVFheDUMfAGkIGlMVXzYFVFdtUx55BzsBH1oQD1UBXVwOX3snM2w4HFscSQBwFQxJDjknM284GGsVXAYKV15eDUsUBHMIH1IRXAQeVFheDUMfAGkJHFISVTYAVV9ZAXsnMwt2fRlDJ1R6XSkoeBBqAjJeGAdjNlZUIDBfCUNKYzYKWhgcHWBKDDcHVTsnBl8">京东</a>, <a href="https://mobile.yangkeduo.com/duo_coupon_landing.html?goods_id=491119506778&pid=41453169_293850628&goods_sign=E9D20DNOC85gBAnxwvbdsuTuL7plf3MD_JQq2E02h8i&cpsSign=CC_240830_41453169_293850628_9a158068b841af1de6c5491b76379944&_x_ddjb_act=%7B%22st%22%3A%221%22%7D&duoduo_type=2">拼多多</a></div>
   </div>
 </div>
+
+**床垫床褥**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-04-16_12-12.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>罗莱家纺 床垫床褥抗菌防螨单双人床上用品床垫 灰色</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥135起</span> (平:￥159)</div>
+    <div >渠道: <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATUJK1olXQABVFhUDkIXAV8IGloUVAUDUFtcCEInRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWCmwJH14UXQ8dDRsBVXtJBgZwZgtJPmZBIicEXjFtVgpDfgxlUQoyVW5eCUkUAG0BE1wRbTYCU24fZp2bpba3m4-K2tCJ311cCEInAl8IHV4QWwAFU1tZAEweM2gIEmtOCGgGAFdZCU5FUGwBGQhCbTYyV25aCEIDBR1JSU8TLzYyVG5eOEsWA2YBElkXWAQASF5eCk0XA3MIHV4QWwAFU1xeDk4UM20JGl8cbTbc2e41DDlAaG1VeR1UX0NnHS0v1sanEh14G1kXXRcyKjoZbiAWQTF-bQwWPURGPx1ccxcSeT0JdVl2OGBdVwM1bD1TfS9BTVkdCTYHZG4">京东</a></div>
+  </div>
+</div>
+通常床垫太厚不好机洗, 直接睡在床笠上又不太舒服, 毛毯垫子又容易移位, 而叫床垫床褥的东西就刚刚好.
+
+**真空压缩收纳袋**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-04-16_12-25.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>太力真空压缩收纳袋衣服旅行袋免抽气衣物密封整理袋</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥--起</span></div>
+    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DDbDYwtjvISpw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFupH%2BKVf1VvfZSi0MojJxd4FAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMAuYceVrF7ucUHCRf5QZF%2BZuVMGbqY6G9PL95d7k%2B037U7Z5MEezoWDqPqvBa9XwUboaXepRpJNC57S4OqJXyzm3iOG0jhpxD%2FYL64De31URnz35HToToHIu8OytvG3CCgkZn3A9FxdX4F%2B6qWNoTfGk3O4wtQ3K90O8IOFjbFg37JJ3CvloTrLCGFCzYOOqAQ&union_lens=lensId%3APUB%401744777480%40212bda34_0c9c_1963cd78ae6_4d39%400275749gfa1vmEOniMbdMfZR%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_1_1744777481015686960060%3Bscm%3A1007.30148.329090.pub_search-item_9d19c3a6-5f9c-46c2-ab66-b4a7acb2ce8c_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAS8JK1olXwECUVtaDkkSCl8IGloUXAcLVldYDUwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAm4BGVIQWAEdDRsBVXsNd2hNfFhlPGVhUwIGSkJcZCRTZxNDUQoyVW5eCUkUAG0BE1wRbTYCU24LZksWAm4JGlscWQcyVW5dDk4SBWkOGVwWWwQFZFldAXtMVgEMT1IRXANQB11UChhAM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZeDU4RA2oLB1sXWgMCUkJdDk4SBWkOGV4cXAAKZFxcCU8eM1_WlutzWXhDK14eeghvWhFBbV9Og4uyRSIqCkkfAn44ElhtK35lHwg0YAMeeWlAGCN9ClZ8AgUkZklNXhBfEiwSGm93MVYEXCBkA18NK2s">京东</a></div>
+  </div>
+</div>
+潮湿的环境物品放久了容易发霉, 真空收纳袋很好的隔绝了潮湿的空气. 缺点是不能叠起来放, 过度压缩可能会让衣物起皱. 和保鲜袋一样都很适合潮湿环境.
+
+**折叠躺椅**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-04-16_13-49.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>午憩宝 躺椅折叠床简易午休午睡床便携医院陪护家用电脑椅宿舍阳台椅子</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥109起</span></div>
+    <div >渠道: <a href="https://uland.taobao.com/coupon/edetail?e=raU1IFgfi%2FWlhHvvyUNXZfh8CuWt5YH5OVuOuRD5gLJMmdsrkidbOWgpcJRl3wFwcV%2FlEyhmp8ASmaNmrvAKg8WAwYHfolxryKAgnDmm2ndfXK9kCMLt6gUK1ZlHkIiAb6Tbqu3MUbDE5b7j7gIKFNgBE4XW2EqXaXOtHj5%2BtxsvR%2F1BNLrRCcLRW2d0xlmJICz0STAcMtun%2Fmg3wCNFzl3kJNatw143Q9xUogD30tT2mzvc%2Bge7yPHD%2BxOfOoIknu1dh2WC27go6nIBvrmLTbcZelJt%2BzjymyD98onOdgTfCbcO5WFd7j2gj%2BeEve0oyu6qgk8C%2BkjDuWz1Er4A5PpvTxnSf5WlGVABmvVyKZKie%2FpBy9wBFg%3D%3D&traceId=21076cab17447828004395687e4d8b&union_lens=lensId%3APUB%401744782790%402106eb1f_1bca_1963d2890a1_81c5%40026PKc5nIVHr6HXVlKUenLnD%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_16_1744782790904686960060%3Bscm%3A1007.30148.329090.pub_search-item_4aaf720e-fdfb-4592-9f48-af68ad297c46_">淘宝</a>, <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAS8JK1olXQYFVl1fAUIUB18IGloWXg8LV15aDk4RBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwLElIWXQEEUVhYFxJSXzI4biN-XFMHKQE_bDFEAQ8WWgZ-KHVqNFJROEonAG4KGFgXVA4FUG5tCEwnQgEPGl4UXwEyVW5dDk4SBWYLE1kRVAYLZFldAXtMVgEMT1IRXANQB11UChhAM184GGsSXQ8WUiwcWl8RcV84G2sWbQYDVFZeDUwVBWYIB1sQXAIHUEJdDk4SBWYLGFwUWAAHZFxcCU8eM1_WlutgWUJ-Klk8SzEfZA0MZiBug4uyRSIqCkkfAn44bDBjCFR-LDsqax5uWS9TGV4QL3UDPFxaZklwcAZ8YB5xDnFSDQ4qCzFLcF8NK2s">京东</a></div>
+  </div>
+</div>
+想像沙发那样躺着靠头玩游戏, 不过很多电脑椅都可以实现, 但是折叠功能能让你很好的迁移. 缺点是高度无法调节, 扶手是铁的还是有点冰冷. 
+
+**增压花洒**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-04-16_14-09-18.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>takagi花洒增压淋浴喷头日本花洒原装进口沐浴美肤莲蓬头PP棉过滤家用 JSA022(增压花洒)</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥98起</span></div>
+    <div >渠道: <a href="https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BATEJK1olXQAGV1xaDUMSBV8IGlodXgILUV1dDEIfBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcLH1IQXgYGXVZaFxJSXzI4ZjwWWH1nFBc-VRdeawxjegdlAnZQAlJROEonAG4KGFgXVA4FUG5tCEwnQgEIGlsVXwcFVG5cOEsRBmoOElkRVQ8KV1ZtD0seMzRddV9BVAIDUQwOC0IVUDg4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAUMTBmkPE1IJXQIBU1tbFEsRBmoOElkRWAAEXVttCkoWB2Y4K4WY7X1wUCwACEhxXxp1TgwWJFPc2e5MejsVB2kPCmsSGmFCCysPXCBASDgAXQtVAlxYIR0pdCh5QSlcbwYcXmN-UxUOXUtTYBVRK14lbQ">京东</a></div>
+  </div>
+</div>
+一开始觉得淋浴水压不够, 看有调评测找到的这款, 后来发现是热水器里面堵了, 但花洒还是留了下来. 简易的结构拆开好清洗, 缺点是没有水流调节功能. 
+
+**蚊帐**
+
+<div style="display: flex;">
+  <div style="width: 130px;">
+    <img src="/picture/2025-04-17_12-10-31.jpg">
+  </div>
+  <div style="padding-left: 10px">
+    <div>康亨防摔蚊帐儿童婴儿宝宝坐床回底家用2025新款卧室防止掉床纹帐</div>
+    <div style="margin-top: 10px"><span style="color:#e62828">￥241起</span></div>
+    <div >渠道: <a href="https://s.click.taobao.com/t?e=m%3D2%26s%3DX6q25XTsBXRw4vFB6t2Z2ueEDrYVVa64YUrQeSeIhnK53hKxp7mNFupH%2BKVf1VvfyF9MpPCi%2FP4FAvjU8V96Zug8%2BWZ7mGwcnYphurpnMR4Al5wSPB27UtBH5tSNdIpA8mL8HhJ3EdVrH4ks4QyiY4z4rjZDGVMAmKI%2FWToAISf05J9EjZ4Cg6Q6sZp7gNLmb4%2BNtrBbTSztl1V2CRFnzGH4Fmynn6mXVy24fy0Q9GFynqaPdBCfZFd4CtN0BiCEl8q5aNiAUKO0zvIVVx%2BPc2%2F51BzEHetfxglKFrfPmkzgk553RHFrowuydcy5%2F08a08FPylgDYdDGDF1NzTQoPw%3D%3D&union_lens=lensId%3APUB%401744862958%40213f7c81_1bdb_19641efd581_1d64%40023pFxP8OtxvRMZlR858Gx8R%40eyJmbG9vcklkIjo4MDY3NCwiic3BtQiiI6Il9wb3J0YWxfdjJfcGFnZXNfcHJvbW9fZ29vZHNfaW5kZXhfaHRtIiiwiic3JjRmxvb3JJZCI6IjgwNjc0In0ie%3BtkScm%3AselectionPlaza_site_4358_0_0_0_6_1744862959047686960060%3Bscm%3A1007.30148.329090.pub_search-item_19dd6dbc-f5b0-40ce-9ba8-5358c3ad16c2_">淘宝</a></div>
+  </div>
+</div>
+我妈说蚊帐侧边底部有布条就不怕手臂靠着被蚊子咬, 缺点是拆装麻烦.
 
 **晴雨伞**
 

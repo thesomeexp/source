@@ -206,7 +206,7 @@ DNS能提供**主机名**(hosename)转换成**IP地址**(IP address)的目录服
 
 它们的层次结构如下: 
 ![](/picture/2020-11-02-15-29-38.jpg)
-如果DNS客户要决定主机名 www.someexp.com 的IP地址, 用户首先和根服务器之一联系, 它返回顶级域名com的TLD服务器的IP地址, 然后客户与这些TLD服务器之一联系, 它将为 someexp.com 返回权威服务器地址的IP, 最后客户与 someexp.com 权威服务器之一联系, 它为主机名 www.someexp.com 返回其IP地址. 得到IP地址后客户就能带着IP地址访问相关的服务了. 细看一下这三种类型的DNS服务器: 
+如果DNS客户要决定主机名 www.p2gg.com 的IP地址, 用户首先和根服务器之一联系, 它返回顶级域名com的TLD服务器的IP地址, 然后客户与这些TLD服务器之一联系, 它将为 p2gg.com 返回权威服务器地址的IP, 最后客户与 p2gg.com 权威服务器之一联系, 它为主机名 www.p2gg.com 返回其IP地址. 得到IP地址后客户就能带着IP地址访问相关的服务了. 细看一下这三种类型的DNS服务器: 
 - **根DNS服务器**(Root DNS Server): 在因特网上有13个根DNS服务器, 但每台"服务器"实际上是一个冗余服务器的网络, 到了2011年秋季共有247个根服务器. 
 - **顶级域DNS服务器**(Top-Level Domain, TLD DNS Server): 这些服务器负责顶级域名如com, org, net, edu和gov, 以及所有国家的顶级域名如cn, uk, fr, ca和jp等. 
 - **权威DNS服务器**(Authoritative DNS Server): 该服务器用来存储一些DNS记录, DNS记录能将主机名映射为IP地址. 一个组织机构能够实现它自己的权威DNS服务器来保存这些记录. 当然这些组织机构也能支付费用, 让一些记录存储在别的服务提供商的权威DNS服务器中. 多数大学和大公司实现和维护他们自己基本和辅助(备份)的DNS服务器. 

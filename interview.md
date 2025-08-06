@@ -2,20 +2,6 @@
 title: 面试笔记
 noindex: true
 ---
-https://javaguide.cn
-https://github.com/CyC2018/CS-Notes 161k 疑似骗 star
-https://snailclimb.gitee.io/javaguide/#/ 131k
-https://doocs.gitee.io/advanced-java/#/ 68k
-https://github.com/xingshaocheng/architect-awesome 57k
-https://github.com/AobingJava/JavaFamily 32k
-https://github.com/javagrowing/JGrowing/blob/master/JGrade.png 4k
-http://notfound9.github.io/interviewGuide/#/ 4k
-https://github.com/allentofight/easy-cs 1k
-http://www.jayh.club/#/ 1k
-https://www.pdai.tech/ ?k
-https://hadyang.com/interview/docs/basic/ ?k
-https://osjobs.net/topk/all/ 算法 ?k
-
 1. Spring组件化思想: Service与Component有没有本质区别?
 2. 输入输出流的包装: 多次读取时有什么解决办法?
 3. Http协议: 如何获取客户端浏览器的中域名?
@@ -48,16 +34,16 @@ https://osjobs.net/topk/all/ 算法 ?k
 HashMap 红黑树原因: 可以利用链表对内存的使用率以及红黑树的高效检索, 是一种很有效率的结构. AVL 树是一种高度平衡的二叉树, 所以查找效率非常高, 但是为了维护这种高度平衡, 要付出更多的代价. (每次插入, 删除都要做调整)
 
 **多线程线程池**
-- newCachedThreadPool: 可缓存的线程池，若线程数超过处理所需，缓存一段时间后会回收，若线程数不够，则新建线程.
-- newFixedThreadPool: 固定大小的线程池，可控制并发的线程数，超出的线程会在队列中等待.
-- newScheduledThreadPool: 周期性的线程池，支持定时及周期性执行任务.
 - newSingleThreadExecutor: 单线程的线程池，可保证所有任务按照指定顺序(FIFO, LIFO, 优先级)执行.
+- newFixedThreadPool: 固定大小的线程池，可控制并发的线程数，超出的线程会在队列中等待.
+- newCachedThreadPool: 可缓存的线程池，若线程数超过处理所需，缓存一段时间后会回收，若线程数不够，则新建线程.
+- newScheduledThreadPool: 周期性的线程池，支持定时及周期性执行任务.
 
-ThreadPoolExecutor 线程池, corePoolSize=5, maximumPoolSize=10, queueCapacity=10, 有20个耗时任务交给这个线程池执行, 线程池会如何执行这20个任务?
-- 如果当前线程数<corePoolSize, 则创建新线程执行该任务.
-- 如果当前线程数>=corePoolSize, 则将任务存入队列.
-- 如果阻塞队列已满, 且当前线程数<maximumPoolSize, 则新建线程执行该任务.
-- 如果阻塞队列已满, 且当前线程数>=maximumPoolSize, 则抛出异常.
+ThreadPoolExecutor 线程池, corePoolSize = 5, maximumPoolSize = 10, queueCapacity = 10, 有 20 个耗时任务交给这个线程池执行, 线程池会如何执行这20个任务?
+- 如果当前线程数 < corePoolSize, 则创建新线程执行该任务.
+- 如果当前线程数 >= corePoolSize, 则将任务存入队列.
+- 如果阻塞队列已满, 且当前线程数 < maximumPoolSize, 则新建线程执行该任务.
+- 如果阻塞队列已满, 且当前线程数 >= maximumPoolSize, 则抛出异常.
 
 **AQS** (AbstractQueuedSynchronizer) 是抽象队列同步器, 主要用来构建锁和同步器. ReentrantLock, Semaphore 都是基于 AQS 构造的. 
 
@@ -65,14 +51,8 @@ AQS 核心思想: 如果请求的共享资源空闲, 就将请求资源的线程
 
 CLH锁是对自旋锁的一种改进, 是一个虚拟的双向队列 (不存在队列实例, 仅存在结点之间的关联关系), 暂时获取不到锁的线程将被加入到该队列中.
 
-JVM
 Java内存区域(运行时数据区域)
-线程私有: 程序计数器, 虚拟机栈, 本地方法栈
-线程共享: 堆, 方法区, 直接内存(非运行时数据区的一部分)
-
-Java1.8之后:
-![](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/github/javaguide/java/jvm/java-runtime-data-areas-jdk1.8.png)
-
+![](/picture/java-runtime-data-areas-jdk1.8.png)
 - 程序计数器: 1.字节码解释器通过改变它来依次读取指令, 实现代码流程控制. 2. 多线程情况下, 用于记录线程执行位置.
 - 虚拟机栈: 为虚拟机执行 Java 方法 (也就是字节码) 服务. 栈内存不允许动态扩展且栈深度超出最大深度时, 抛出 StackOverflow. 虚拟机在动态扩展栈时无法申请到足够的内存空间, 则抛出 OutOfMemoryError.
 - 本地方法栈: 为虚拟机使用到的 Native 方法服务.
@@ -95,8 +75,8 @@ Java1.8之后:
 
     内存分配并发问题:
     在实际开发过程中，创建对象是很频繁的事情, 必须确保线程安全:
+    - TLAB (Thread Local Allocation Buffer):  为每一个线程预先在 Eden 区分配一块儿内存，JVM 在给线程中的对象分配内存时，首先在 TLAB 分配，当对象大于 TLAB 中的剩余内存或 TLAB 的内存已用尽时，再采用 CAS 进行内存分配.
     - CAS + 失败重试: 虚拟机采用 CAS 配上失败重试的方式保证更新操作的原子性。
-    - TLAB (Thread Local Allocation Buffer):  为每一个线程预先在 Eden 区分配一块儿内存，JVM 在给线程中的对象分配内存时，首先在 TLAB 分配，当对象大于 TLAB 中的剩余内存或 TLAB 的内存已用尽时，再采用上述的 CAS 进行内存分配
 - 3. 初始化零值
 虚拟机需要将分配到的内存空间都初始化为零值（不包括对象头），这一步操作保证了对象的实例字段在 Java 代码中可以不赋初始值就直接使用，程序能访问到这些字段的数据类型所对应的零值。
 - 4. 设置对象头
@@ -109,11 +89,6 @@ Hotspot虚拟机中, 可分为: 对象头, 实例数据, 对齐填充
 - 对象头: 一部分用于存储对象自身的运行时数据（哈希码、GC 分代年龄、锁状态标志等等），另一部分是类型指针.
 - 实例数据: 对象真正存储的有效信息，也是在程序中所定义的各种类型的字段内容。
 - 对齐填充: 仅仅起占位作用
-
-对象的访问定位
-Java 程序通过栈上的 reference 数据来操作堆上的具体对象。对象的访问方式由虚拟机实现而定，目前主流的访问方式有：**句柄**、**直接指针**。
-- 句柄: Java 堆中将会划分出一块内存来作为句柄池，reference 中存储的就是对象的句柄地址，而句柄中包含了对象实例数据与对象类型数据各自的具体地址信息。(在对象被移动时只会改变句柄中的实例数据指针)
-- 直接指针: reference 中存储的直接就是对象的地址。(速度快，它节省了一次指针定位的时间开销。对象移动时需要修改 reference)
 
 堆空间基本结构:
 新生代: Eden, S0, S1
@@ -133,9 +108,6 @@ Java 程序通过栈上的 reference 数据来操作堆上的具体对象。对�
 - 虚引用: 如果一个对象仅持有虚引用, 那么它就和没有任何引用一样, 在任何时候都有可能被垃圾回收. 虚引用主要用来跟踪对象被垃圾回收的活动.
 
 程序设计中很少使用弱引用与虚引用, 使用软引用较多, 因为软引用可以加速 JVM 堆垃圾内存的回收速度, 维护系统的运行安全, 防止内存溢出等问题的产生.
-
-判断废弃常量
-没有任何对象引用它, 那它就是废弃常量, 如果发生内存回收且有必要的话, 它就会被系统清出常量池了.
 
 判断无用类
 - 该类所有实例都已经被回收.
@@ -158,17 +130,11 @@ Java 程序通过栈上的 reference 数据来操作堆上的具体对象。对�
 根据具体应用场景选择适合的垃圾收集器.
 - Serial 收集器: 单线程, "Stop The World". 新生代采用标记-复制算法，老年代采用标记-整理算法. 简单而高效. 适合 Client 模式下的虚拟机.
 - ParNew 收集器:  Serial 收集器的多线程版本. 新生代采用标记-复制算法，老年代采用标记-整理算法. Server 模式下的虚拟机的首选.
-- Parallel Scavenge 收集器: 吞吐量优先. 新生代采用标记-复制算法，老年代采用标记-整理算法. JDK1.8 默认收集器.
-- Serial Old 收集器: Serial 收集器的老年代版本. 一种用途是在 JDK1.5 以及以前的版本中与 Parallel Scavenge 收集器搭配使用，另一种用途是作为 CMS 收集器的后备方案。
-- Parallel Old 收集器: Parallel Scavenge 收集器的老年代版本. 使用多线程和“标记-整理”算法。
-- CMS 收集器: 并发收集、低停顿. 以获取最短回收停顿时间为目标. 非常符合在注重用户体验的应用上使用. 第一次实现了让垃圾收集线程与用户线程（基本上）同时工作. 缺点:
-  - 对 CPU 资源敏感.
-  - 无法处理浮动垃圾.
-  - 标记-清除 产生大量空间碎片.
-- G1 收集器: 面向服务器的垃圾收集器,针对配备多颗处理器及大容量内存的机器. 以极高概率满足 GC 停顿时间要求的同时,还具备高吞吐量性能特征.
+- Parallel Scavenge 收集器(JDK1.8 默认): 吞吐量优先. 新生代采用标记-复制算法，老年代采用标记-整理算法.
+- CMS 收集器: 并发收集、低停顿. 以获取最短回收停顿时间为目标. 非常符合在注重用户体验的应用上使用. 第一次实现了让垃圾收集线程与用户线程（基本上）同时工作. 缺点: CPU 资源敏感. 无法处理浮动垃圾. 标记-清除 产生大量空间碎片.
+- G1 收集器(Java9+ 默认): 面向服务器的垃圾收集器, 针对配备多颗处理器及大容量内存的机器. 以极高概率满足 GC 停顿时间要求的同时, 还具备高吞吐量性能特征.
 - ZGC 收集器: 与 CMS 中的 ParNew 和 G1 类似，ZGC 也采用标记-复制算法，出现 Stop The World 的情况会更少.
 
-Minor GC 和 Full GC
 Minor GC 是只收集新生代的 GC.
 Full GC 就是收集整个堆, 包括新生代, 老年代, 永久代(1.8之后换为元空间)等收集所有部分的模式.
 

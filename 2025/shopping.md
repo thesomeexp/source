@@ -8,8 +8,7 @@ urlname: shopping
 original: true
 description: 产品是一门技术与成本的艺术.
 ---
-产品是一门技术与成本的艺术.
-<!--more-->
+跳转中... 如果没有跳转, 请点击 [这里](/shopping)
 <script>
   window.location.href = "/shopping";
 </script>

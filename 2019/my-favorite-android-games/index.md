@@ -8,6 +8,7 @@ urlname: my-favorite-android-games
 original: true
 description: 安卓游戏推荐榜
 ---
+跳转中... 如果没有跳转, 请点击 [这里](/2019/favorite-games)
 <script>
   window.location.href = "/2019/favorite-games";
 </script>
